@@ -1,0 +1,701 @@
+Location,Perceived_Safety,Incident_Witnessed,Avoided_Area
+Central Station,3,No,No
+Downtown,4,No,Yes
+Downtown,1,Yes,No
+Downtown,3,No,No
+East Side,1,No,Yes
+East Side,5,Yes,No
+Park Street,1,No,No
+Central Station,1,No,Yes
+Park Street,3,Yes,Yes
+Park Street,2,Yes,No
+Park Street,1,Yes,No
+East Side,5,No,No
+Downtown,3,Yes,Yes
+Park Street,2,No,Yes
+West End,2,Yes,Yes
+Central Station,2,No,No
+East Side,4,Yes,Yes
+Park Street,4,Yes,Yes
+Central Station,3,No,No
+Central Station,1,No,Yes
+Downtown,3,Yes,No
+West End,4,Yes,No
+West End,4,No,No
+Park Street,1,No,Yes
+Central Station,5,No,No
+Park Street,1,No,No
+East Side,5,No,No
+Central Station,4,Yes,Yes
+East Side,5,Yes,Yes
+Central Station,5,Yes,No
+Park Street,3,No,Yes
+Downtown,5,Yes,Yes
+West End,1,Yes,No
+East Side,5,Yes,Yes
+Park Street,2,No,Yes
+East Side,1,Yes,No
+Park Street,2,Yes,Yes
+West End,5,Yes,No
+East Side,1,No,Yes
+Downtown,2,No,No
+Central Station,1,No,No
+West End,4,Yes,No
+West End,5,No,No
+Central Station,5,No,No
+Park Street,4,No,No
+Central Station,4,No,Yes
+West End,2,Yes,Yes
+Park Street,3,Yes,No
+West End,2,No,No
+East Side,5,Yes,Yes
+Central Station,3,No,No
+Downtown,1,Yes,No
+West End,4,No,No
+West End,2,Yes,Yes
+Central Station,3,No,No
+East Side,1,Yes,No
+West End,5,Yes,No
+Downtown,1,Yes,No
+Central Station,5,No,Yes
+Downtown,2,Yes,No
+Park Street,2,Yes,No
+West End,1,No,No
+West End,5,No,Yes
+East Side,4,No,No
+Downtown,5,Yes,No
+East Side,5,No,Yes
+East Side,1,No,Yes
+West End,2,No,No
+Park Street,4,Yes,No
+Central Station,3,Yes,No
+West End,5,No,Yes
+East Side,2,No,No
+Downtown,5,No,Yes
+East Side,1,Yes,No
+Downtown,4,Yes,No
+West End,1,Yes,No
+West End,3,No,Yes
+West End,4,No,Yes
+Downtown,3,Yes,Yes
+Park Street,4,Yes,No
+Central Station,5,No,No
+East Side,3,Yes,Yes
+West End,3,Yes,No
+West End,3,Yes,No
+Central Station,3,Yes,No
+Park Street,5,Yes,Yes
+Park Street,4,No,Yes
+Park Street,2,Yes,No
+Central Station,4,Yes,No
+Central Station,3,Yes,Yes
+West End,2,Yes,No
+West End,5,Yes,Yes
+West End,4,Yes,No
+Park Street,4,No,No
+Park Street,1,Yes,Yes
+Central Station,1,Yes,Yes
+East Side,4,No,Yes
+Downtown,2,No,No
+Central Station,1,Yes,Yes
+Park Street,1,Yes,Yes
+Downtown,5,No,No
+Downtown,5,Yes,Yes
+Central Station,4,Yes,No
+Downtown,1,Yes,Yes
+Park Street,2,Yes,Yes
+East Side,5,Yes,No
+Central Station,1,Yes,Yes
+Park Street,3,No,Yes
+Park Street,5,Yes,No
+Downtown,5,No,No
+Central Station,2,No,No
+Downtown,4,No,Yes
+Downtown,4,Yes,Yes
+Park Street,1,No,Yes
+Park Street,5,Yes,No
+Park Street,2,No,Yes
+West End,1,No,Yes
+West End,1,No,No
+Park Street,3,No,No
+West End,3,No,No
+East Side,4,Yes,No
+West End,1,Yes,Yes
+West End,4,No,Yes
+Central Station,4,Yes,Yes
+Downtown,3,Yes,No
+West End,2,Yes,No
+Downtown,3,Yes,Yes
+Park Street,3,No,Yes
+Central Station,3,No,No
+Park Street,3,No,Yes
+Park Street,4,No,No
+West End,4,No,Yes
+Downtown,4,Yes,Yes
+Downtown,1,No,Yes
+Central Station,5,No,No
+East Side,1,Yes,No
+Downtown,1,Yes,Yes
+Downtown,2,Yes,No
+Park Street,2,No,Yes
+Downtown,5,Yes,Yes
+Park Street,5,Yes,No
+Downtown,5,Yes,No
+Downtown,5,No,Yes
+Park Street,2,No,Yes
+Downtown,1,Yes,Yes
+Central Station,3,No,Yes
+East Side,4,No,Yes
+Park Street,5,No,Yes
+Central Station,1,Yes,No
+Park Street,4,Yes,Yes
+East Side,4,Yes,Yes
+Park Street,2,No,Yes
+Park Street,3,No,Yes
+Downtown,3,No,Yes
+East Side,1,No,No
+West End,3,No,No
+West End,4,No,No
+West End,2,No,Yes
+Downtown,5,Yes,Yes
+Central Station,3,No,No
+Downtown,3,No,Yes
+East Side,5,No,Yes
+Downtown,2,No,Yes
+East Side,3,No,No
+Downtown,3,Yes,No
+Central Station,4,No,No
+Central Station,5,Yes,No
+Central Station,5,Yes,No
+West End,1,Yes,No
+Downtown,1,No,Yes
+West End,4,No,No
+Central Station,1,No,Yes
+East Side,5,No,No
+Downtown,2,Yes,Yes
+Downtown,5,No,Yes
+West End,1,Yes,Yes
+West End,4,Yes,Yes
+Park Street,5,No,No
+Central Station,4,No,Yes
+East Side,2,No,No
+East Side,5,Yes,No
+East Side,4,No,No
+Park Street,1,Yes,No
+East Side,2,No,Yes
+Central Station,2,Yes,No
+East Side,1,Yes,Yes
+Downtown,5,Yes,Yes
+Park Street,1,Yes,No
+East Side,5,Yes,No
+East Side,2,Yes,No
+Central Station,2,No,Yes
+Central Station,4,Yes,No
+Central Station,4,No,No
+East Side,2,No,Yes
+Central Station,3,Yes,No
+Central Station,4,Yes,Yes
+East Side,2,No,Yes
+Downtown,1,Yes,Yes
+Central Station,2,No,Yes
+Central Station,5,Yes,No
+Downtown,2,Yes,Yes
+West End,3,No,No
+Downtown,5,No,No
+East Side,2,No,No
+Central Station,3,No,Yes
+Central Station,1,Yes,No
+Park Street,2,No,No
+Central Station,3,No,Yes
+West End,1,No,Yes
+Downtown,4,Yes,No
+Downtown,5,Yes,Yes
+Central Station,1,Yes,Yes
+Central Station,5,No,Yes
+Park Street,5,Yes,Yes
+West End,4,No,Yes
+Central Station,1,No,No
+Park Street,3,No,Yes
+Downtown,1,No,Yes
+Downtown,5,No,No
+West End,1,Yes,No
+East Side,5,No,Yes
+Park Street,5,Yes,Yes
+Central Station,2,Yes,No
+Downtown,1,Yes,Yes
+Downtown,5,Yes,Yes
+West End,1,Yes,No
+Central Station,5,No,No
+East Side,5,Yes,Yes
+East Side,4,No,Yes
+Park Street,2,Yes,Yes
+Central Station,4,No,Yes
+Downtown,3,No,No
+West End,3,No,No
+East Side,1,No,No
+Park Street,5,Yes,No
+Park Street,4,Yes,No
+Central Station,3,No,No
+East Side,4,Yes,No
+Park Street,3,No,No
+Park Street,4,Yes,Yes
+Central Station,1,No,No
+East Side,3,Yes,No
+Park Street,1,Yes,Yes
+East Side,4,Yes,No
+West End,1,Yes,No
+Park Street,4,Yes,Yes
+West End,3,Yes,Yes
+Central Station,3,No,Yes
+Downtown,3,Yes,Yes
+Central Station,4,No,Yes
+East Side,3,No,No
+Downtown,3,No,No
+Central Station,1,Yes,Yes
+East Side,1,Yes,No
+West End,3,Yes,No
+Park Street,3,Yes,No
+Central Station,1,No,No
+West End,2,No,Yes
+Central Station,2,Yes,No
+Downtown,1,No,No
+East Side,4,No,Yes
+Central Station,4,No,Yes
+Downtown,2,Yes,No
+East Side,1,No,Yes
+Park Street,2,No,No
+Central Station,2,Yes,Yes
+East Side,4,Yes,No
+West End,1,No,No
+Central Station,2,No,Yes
+East Side,2,Yes,Yes
+Central Station,4,Yes,Yes
+Downtown,3,No,Yes
+Downtown,1,Yes,No
+Central Station,3,No,No
+East Side,5,No,No
+Downtown,5,Yes,Yes
+West End,2,No,Yes
+Park Street,1,No,Yes
+Central Station,2,No,Yes
+West End,2,No,Yes
+Central Station,2,No,Yes
+East Side,4,Yes,Yes
+West End,5,Yes,Yes
+Downtown,4,No,No
+Downtown,2,Yes,No
+Park Street,4,No,No
+Downtown,3,Yes,No
+Central Station,5,No,Yes
+Park Street,2,Yes,No
+Central Station,3,Yes,No
+Downtown,1,No,Yes
+Central Station,3,No,No
+Central Station,1,No,No
+Downtown,2,No,No
+Downtown,4,No,No
+Central Station,3,Yes,No
+Downtown,4,No,Yes
+Central Station,4,Yes,Yes
+Downtown,3,Yes,Yes
+West End,2,No,No
+West End,1,Yes,No
+Park Street,4,No,No
+East Side,4,No,No
+Central Station,1,Yes,No
+East Side,5,Yes,No
+Park Street,4,No,No
+Central Station,4,Yes,No
+Central Station,3,No,Yes
+East Side,5,No,No
+Downtown,4,No,Yes
+West End,1,Yes,Yes
+Downtown,2,Yes,No
+Downtown,1,Yes,Yes
+Downtown,1,No,Yes
+East Side,1,Yes,No
+Park Street,4,No,No
+Park Street,3,No,Yes
+Downtown,2,Yes,No
+Park Street,2,Yes,Yes
+Park Street,3,Yes,Yes
+Central Station,4,Yes,Yes
+East Side,1,No,No
+Downtown,4,Yes,No
+West End,3,Yes,No
+Park Street,3,Yes,No
+Central Station,1,No,No
+West End,3,No,No
+Central Station,2,Yes,No
+West End,5,No,Yes
+West End,4,No,No
+Central Station,3,Yes,No
+East Side,2,Yes,Yes
+Central Station,3,Yes,No
+Central Station,5,Yes,Yes
+East Side,4,No,No
+East Side,5,No,Yes
+Downtown,1,Yes,Yes
+East Side,5,No,Yes
+Downtown,1,No,Yes
+Park Street,4,Yes,No
+Park Street,3,Yes,No
+Park Street,1,No,No
+West End,3,Yes,Yes
+East Side,3,Yes,Yes
+Central Station,5,Yes,No
+East Side,5,No,No
+West End,5,Yes,Yes
+Park Street,1,No,Yes
+Central Station,2,No,No
+West End,5,Yes,No
+West End,1,No,Yes
+East Side,2,Yes,Yes
+Central Station,3,Yes,No
+Park Street,4,No,No
+West End,4,No,No
+Downtown,1,Yes,Yes
+Park Street,5,No,No
+Park Street,1,Yes,No
+Central Station,4,Yes,No
+Central Station,5,No,Yes
+Downtown,1,No,Yes
+West End,2,Yes,No
+Central Station,5,No,Yes
+Central Station,3,No,No
+Downtown,5,No,No
+East Side,3,Yes,Yes
+East Side,4,Yes,Yes
+Park Street,4,Yes,No
+Central Station,3,No,Yes
+West End,4,Yes,Yes
+Park Street,5,No,Yes
+West End,1,No,Yes
+West End,2,Yes,Yes
+Central Station,5,Yes,No
+West End,3,Yes,No
+Downtown,1,No,No
+West End,3,No,Yes
+Downtown,4,No,No
+Downtown,4,No,No
+Park Street,1,Yes,Yes
+Central Station,3,No,No
+Central Station,4,Yes,No
+East Side,4,No,No
+Downtown,4,No,No
+Central Station,1,No,No
+Central Station,3,Yes,No
+Central Station,2,No,Yes
+Central Station,3,Yes,No
+Park Street,1,Yes,No
+West End,4,No,Yes
+Downtown,3,Yes,Yes
+Park Street,3,Yes,No
+West End,3,No,No
+East Side,3,Yes,No
+Park Street,4,No,No
+Downtown,1,No,Yes
+Downtown,4,No,No
+Downtown,3,No,No
+East Side,1,Yes,No
+Downtown,1,No,No
+Central Station,1,No,Yes
+Central Station,5,Yes,Yes
+Central Station,2,No,Yes
+Park Street,5,No,No
+East Side,1,No,No
+Park Street,4,Yes,No
+West End,1,No,No
+Central Station,1,No,No
+Park Street,4,Yes,No
+Downtown,2,No,No
+West End,3,Yes,No
+Downtown,4,No,Yes
+East Side,3,No,Yes
+Central Station,5,No,No
+East Side,2,Yes,Yes
+Downtown,4,Yes,No
+East Side,3,Yes,Yes
+Downtown,4,Yes,Yes
+West End,5,No,No
+Central Station,2,Yes,Yes
+Downtown,2,Yes,Yes
+Park Street,5,No,Yes
+Park Street,1,No,No
+West End,4,No,Yes
+Downtown,2,Yes,Yes
+Downtown,4,Yes,No
+Park Street,4,Yes,No
+Park Street,3,No,Yes
+West End,4,Yes,No
+West End,3,No,Yes
+East Side,5,No,Yes
+East Side,4,Yes,Yes
+East Side,4,Yes,No
+Park Street,4,Yes,Yes
+West End,5,Yes,No
+Downtown,1,Yes,Yes
+Park Street,1,No,Yes
+Downtown,2,No,Yes
+Downtown,2,Yes,No
+Central Station,2,No,Yes
+East Side,2,No,No
+Downtown,3,Yes,Yes
+East Side,4,Yes,Yes
+Downtown,5,Yes,No
+Park Street,2,No,No
+East Side,3,Yes,No
+Downtown,4,No,No
+Downtown,5,Yes,Yes
+Central Station,4,No,Yes
+Central Station,2,No,Yes
+East Side,4,No,Yes
+Downtown,4,Yes,Yes
+West End,3,No,No
+West End,3,Yes,No
+East Side,5,Yes,Yes
+Central Station,1,Yes,Yes
+Park Street,1,Yes,Yes
+West End,3,Yes,No
+Park Street,3,No,No
+West End,4,No,No
+Central Station,3,No,No
+East Side,5,Yes,No
+Park Street,2,Yes,No
+West End,5,Yes,Yes
+Downtown,3,Yes,No
+East Side,3,No,Yes
+West End,3,Yes,No
+Central Station,1,Yes,Yes
+East Side,2,No,Yes
+East Side,3,Yes,Yes
+Park Street,4,No,Yes
+Central Station,1,Yes,No
+Park Street,3,No,No
+Central Station,2,No,No
+East Side,2,Yes,No
+Park Street,5,No,No
+West End,4,Yes,No
+East Side,4,No,Yes
+Downtown,4,Yes,Yes
+Park Street,5,Yes,Yes
+Central Station,5,Yes,Yes
+Central Station,2,Yes,Yes
+Downtown,4,No,No
+Central Station,4,No,No
+East Side,2,Yes,Yes
+East Side,2,Yes,Yes
+Park Street,3,No,Yes
+East Side,4,Yes,No
+Downtown,5,Yes,No
+Downtown,2,No,No
+Central Station,1,Yes,No
+Central Station,4,Yes,Yes
+West End,4,No,Yes
+Central Station,4,No,No
+East Side,4,No,Yes
+Central Station,3,No,Yes
+Park Street,1,No,Yes
+East Side,2,Yes,Yes
+West End,3,Yes,No
+Park Street,4,Yes,No
+East Side,4,Yes,No
+Central Station,2,Yes,No
+Park Street,3,No,No
+East Side,2,No,Yes
+East Side,1,No,No
+Downtown,5,Yes,No
+Park Street,2,No,No
+Central Station,4,No,No
+Downtown,3,Yes,No
+Central Station,3,No,Yes
+Downtown,3,Yes,No
+Downtown,1,No,Yes
+East Side,2,Yes,No
+East Side,1,No,No
+Central Station,4,Yes,Yes
+East Side,3,Yes,Yes
+East Side,5,Yes,No
+Park Street,3,Yes,No
+Central Station,1,Yes,No
+Downtown,2,Yes,Yes
+West End,1,No,No
+Central Station,1,No,Yes
+Downtown,4,No,Yes
+West End,4,Yes,No
+West End,5,Yes,No
+Downtown,4,Yes,No
+West End,4,No,Yes
+Central Station,4,No,Yes
+East Side,5,No,No
+Park Street,1,Yes,No
+West End,1,No,No
+Park Street,2,Yes,No
+West End,3,Yes,Yes
+West End,1,No,Yes
+Park Street,5,No,No
+Central Station,1,Yes,Yes
+East Side,5,No,No
+Central Station,3,No,No
+Central Station,3,Yes,Yes
+East Side,3,No,Yes
+Downtown,2,Yes,Yes
+Central Station,2,Yes,No
+Park Street,1,No,Yes
+East Side,2,No,No
+Park Street,5,Yes,Yes
+Central Station,5,Yes,Yes
+Central Station,2,Yes,Yes
+West End,5,No,Yes
+Central Station,4,No,No
+East Side,4,No,Yes
+Central Station,5,Yes,Yes
+Central Station,3,No,No
+Central Station,3,No,No
+East Side,4,No,Yes
+East Side,2,No,Yes
+East Side,1,No,No
+Park Street,2,Yes,No
+West End,3,Yes,No
+East Side,4,No,Yes
+Central Station,1,Yes,No
+Park Street,1,Yes,No
+Downtown,3,Yes,No
+East Side,5,Yes,Yes
+East Side,1,Yes,No
+East Side,2,No,No
+Central Station,5,No,No
+West End,5,Yes,No
+West End,2,Yes,Yes
+East Side,1,No,Yes
+West End,5,No,No
+Central Station,4,No,Yes
+Downtown,4,Yes,No
+Central Station,2,No,Yes
+Downtown,1,No,Yes
+West End,4,Yes,No
+Park Street,5,Yes,Yes
+Park Street,1,No,No
+Downtown,2,Yes,Yes
+Park Street,1,Yes,Yes
+Park Street,1,Yes,Yes
+Park Street,1,No,Yes
+East Side,2,No,Yes
+Downtown,5,Yes,Yes
+West End,1,Yes,Yes
+Downtown,3,Yes,Yes
+Downtown,3,Yes,No
+Park Street,1,Yes,No
+Downtown,4,Yes,Yes
+Central Station,5,Yes,No
+Downtown,3,Yes,Yes
+East Side,4,No,Yes
+Park Street,5,No,No
+East Side,4,No,No
+Central Station,5,Yes,Yes
+West End,2,Yes,No
+East Side,3,Yes,No
+East Side,5,No,Yes
+Downtown,4,Yes,No
+Downtown,5,Yes,No
+West End,4,No,Yes
+Park Street,5,Yes,No
+Downtown,5,No,No
+Park Street,4,Yes,Yes
+Central Station,1,Yes,Yes
+West End,5,No,No
+West End,5,Yes,Yes
+Downtown,2,Yes,No
+Park Street,1,Yes,No
+West End,4,Yes,Yes
+Downtown,5,Yes,Yes
+West End,2,Yes,Yes
+West End,3,Yes,Yes
+West End,5,Yes,Yes
+Park Street,4,No,Yes
+Central Station,4,No,No
+West End,1,No,No
+Park Street,3,Yes,Yes
+Downtown,3,No,Yes
+Park Street,1,Yes,No
+Park Street,2,No,No
+Central Station,5,No,Yes
+East Side,4,No,Yes
+Downtown,4,Yes,No
+Central Station,2,Yes,No
+East Side,2,Yes,Yes
+East Side,1,Yes,Yes
+Park Street,2,Yes,No
+Central Station,1,Yes,No
+Park Street,3,Yes,Yes
+Central Station,3,No,No
+West End,3,Yes,Yes
+Downtown,4,No,Yes
+Park Street,5,No,No
+Park Street,3,Yes,No
+Central Station,5,No,No
+Central Station,2,No,Yes
+East Side,2,Yes,Yes
+Downtown,5,No,No
+Park Street,1,No,Yes
+Park Street,1,No,No
+Park Street,2,No,Yes
+Downtown,2,No,Yes
+Downtown,1,Yes,Yes
+Downtown,2,Yes,Yes
+Central Station,5,Yes,No
+Central Station,1,Yes,Yes
+Central Station,1,No,No
+Park Street,3,No,No
+West End,3,No,No
+East Side,1,Yes,Yes
+West End,2,No,Yes
+Park Street,2,Yes,No
+East Side,4,Yes,No
+Park Street,1,No,No
+Downtown,5,Yes,No
+Downtown,5,No,Yes
+Park Street,2,Yes,Yes
+West End,4,Yes,No
+Central Station,4,No,Yes
+West End,2,Yes,No
+East Side,1,Yes,No
+Downtown,4,No,Yes
+Park Street,2,No,Yes
+Downtown,1,No,Yes
+West End,2,Yes,Yes
+Park Street,1,No,Yes
+Central Station,2,No,No
+Downtown,5,Yes,Yes
+Downtown,3,Yes,No
+Downtown,1,No,No
+Park Street,3,No,No
+Central Station,2,Yes,Yes
+East Side,2,No,No
+Park Street,3,Yes,Yes
+Central Station,1,No,No
+Park Street,3,Yes,Yes
+East Side,1,Yes,Yes
+Park Street,5,No,No
+West End,5,No,No
+Central Station,4,Yes,Yes
+Central Station,4,Yes,Yes
+East Side,1,Yes,No
+Central Station,5,Yes,Yes
+Park Street,1,No,Yes
+Downtown,3,No,Yes
+Park Street,5,No,No
+West End,1,No,No
+Central Station,5,No,Yes
+West End,3,Yes,No
+East Side,4,No,Yes
+West End,1,Yes,No
+Downtown,5,Yes,Yes
+Central Station,1,No,Yes
+Park Street,1,Yes,Yes
+Park Street,3,Yes,Yes
+Central Station,4,Yes,Yes
+Downtown,5,Yes,No
+East Side,1,No,No
+Central Station,2,No,Yes
+West End,3,No,No

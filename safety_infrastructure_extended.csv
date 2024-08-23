@@ -1,0 +1,701 @@
+Location,Street_Lighting,CCTV_Coverage,Police_Patrol_Frequency
+West End,Moderate,Low,Moderate
+Downtown,Moderate,High,Moderate
+Park Street,Moderate,Moderate,Moderate
+East Side,Poor,High,Moderate
+Downtown,Good,Moderate,High
+East Side,Good,Low,High
+Park Street,Moderate,Low,Low
+East Side,Poor,High,High
+Central Station,Poor,Moderate,Low
+Park Street,Moderate,High,Moderate
+Downtown,Poor,Low,Low
+West End,Poor,High,High
+Central Station,Good,High,Moderate
+Downtown,Good,High,Moderate
+West End,Poor,Moderate,Moderate
+Park Street,Poor,Moderate,Low
+Central Station,Good,Moderate,High
+Park Street,Good,Moderate,Moderate
+Park Street,Good,Moderate,Moderate
+Central Station,Moderate,High,High
+Central Station,Moderate,Low,High
+East Side,Poor,Moderate,High
+Downtown,Good,Moderate,Moderate
+Park Street,Poor,High,Moderate
+Downtown,Poor,Moderate,Low
+East Side,Moderate,Low,Moderate
+East Side,Good,Moderate,Low
+Downtown,Poor,Moderate,High
+Central Station,Good,Low,Moderate
+Central Station,Good,Low,Low
+Downtown,Good,Moderate,Low
+Central Station,Good,High,Moderate
+Downtown,Poor,Moderate,Moderate
+Central Station,Moderate,High,Low
+West End,Good,Moderate,High
+West End,Moderate,Low,Moderate
+East Side,Moderate,Low,Low
+Downtown,Good,High,Low
+West End,Poor,High,Low
+East Side,Moderate,Low,High
+Downtown,Good,Low,Moderate
+Downtown,Good,High,Low
+West End,Poor,Moderate,Low
+Downtown,Good,High,Low
+Downtown,Good,Moderate,Low
+Park Street,Poor,Moderate,Moderate
+Central Station,Good,Moderate,High
+East Side,Moderate,Moderate,High
+West End,Good,Low,Moderate
+West End,Poor,High,Moderate
+Downtown,Good,High,Moderate
+East Side,Poor,High,Moderate
+Park Street,Poor,Moderate,High
+West End,Poor,High,High
+Downtown,Moderate,Low,Low
+Downtown,Poor,Moderate,High
+West End,Poor,Low,Moderate
+Park Street,Poor,High,Low
+West End,Moderate,Low,Moderate
+West End,Good,Low,High
+Park Street,Good,High,Low
+Central Station,Poor,Low,High
+Downtown,Good,Moderate,High
+East Side,Poor,Moderate,High
+East Side,Good,High,High
+Central Station,Good,Low,High
+Park Street,Good,High,Low
+East Side,Poor,Low,Low
+Park Street,Good,Low,Low
+Park Street,Good,Low,High
+East Side,Poor,Moderate,Low
+Central Station,Poor,High,Moderate
+East Side,Good,Moderate,Moderate
+East Side,Moderate,Low,High
+West End,Poor,Moderate,High
+West End,Moderate,High,Low
+Central Station,Moderate,Moderate,Low
+Downtown,Good,Moderate,Low
+Downtown,Good,High,Moderate
+East Side,Good,Moderate,High
+Central Station,Good,Low,Moderate
+Park Street,Good,High,Low
+Central Station,Poor,Moderate,Moderate
+West End,Good,High,High
+West End,Good,Low,Low
+Central Station,Moderate,Moderate,Low
+Central Station,Poor,Low,High
+Downtown,Moderate,Moderate,Moderate
+Park Street,Poor,High,Low
+West End,Poor,High,High
+West End,Poor,High,Moderate
+West End,Moderate,High,Moderate
+Central Station,Moderate,High,Low
+East Side,Poor,Moderate,Low
+Park Street,Moderate,Moderate,Moderate
+Park Street,Moderate,High,High
+Downtown,Poor,Low,High
+Park Street,Good,Moderate,Moderate
+Downtown,Good,Moderate,High
+West End,Moderate,High,High
+East Side,Poor,Low,Moderate
+Downtown,Poor,High,High
+Central Station,Moderate,Low,High
+West End,Poor,Low,High
+Central Station,Poor,Low,Moderate
+Downtown,Good,Low,Moderate
+Park Street,Moderate,Moderate,Low
+East Side,Moderate,Low,Moderate
+Downtown,Poor,Moderate,Low
+Central Station,Poor,Low,High
+Central Station,Poor,Low,Moderate
+Park Street,Poor,Moderate,High
+Park Street,Moderate,Moderate,Moderate
+West End,Good,High,High
+West End,Poor,Moderate,High
+West End,Poor,Moderate,High
+Downtown,Poor,Moderate,Moderate
+East Side,Moderate,Moderate,Low
+Central Station,Moderate,Low,Low
+West End,Good,Moderate,Moderate
+Central Station,Poor,High,Moderate
+West End,Good,Moderate,Moderate
+West End,Good,Moderate,Moderate
+Park Street,Good,Moderate,Low
+West End,Poor,Low,Moderate
+East Side,Good,Low,Low
+Park Street,Poor,Moderate,Low
+West End,Good,Low,Low
+West End,Good,High,High
+West End,Poor,Moderate,High
+East Side,Good,High,High
+Downtown,Poor,High,Moderate
+East Side,Poor,High,Low
+Downtown,Poor,Moderate,High
+Park Street,Good,High,Moderate
+Park Street,Poor,Moderate,Low
+Park Street,Good,Moderate,Low
+Downtown,Poor,Moderate,High
+Downtown,Moderate,Moderate,High
+Park Street,Good,Moderate,High
+Downtown,Poor,Moderate,Moderate
+Downtown,Good,Moderate,Low
+Downtown,Moderate,Low,Moderate
+East Side,Poor,Low,Moderate
+Central Station,Moderate,High,High
+Downtown,Moderate,Moderate,Moderate
+West End,Moderate,Moderate,Moderate
+West End,Poor,Moderate,Low
+Park Street,Moderate,High,Low
+Downtown,Poor,Low,High
+East Side,Moderate,Low,High
+Park Street,Poor,High,High
+East Side,Good,High,Moderate
+East Side,Poor,High,Low
+West End,Moderate,Low,Low
+Central Station,Poor,Low,Moderate
+Downtown,Good,High,Moderate
+Park Street,Moderate,High,Low
+Downtown,Moderate,High,High
+East Side,Good,Low,Low
+West End,Good,High,High
+Park Street,Good,Moderate,Moderate
+Downtown,Poor,High,Low
+Central Station,Good,High,Moderate
+West End,Poor,Low,High
+West End,Moderate,High,Low
+Downtown,Good,High,Low
+Park Street,Good,Moderate,High
+West End,Poor,Moderate,High
+West End,Poor,High,Low
+Park Street,Poor,Moderate,Moderate
+Central Station,Good,Low,Moderate
+Central Station,Moderate,Moderate,Low
+Downtown,Moderate,Low,Moderate
+Downtown,Poor,Low,High
+East Side,Poor,Moderate,Moderate
+East Side,Good,Moderate,Low
+West End,Moderate,Low,Low
+Downtown,Moderate,Low,Low
+Park Street,Poor,High,Low
+Park Street,Moderate,High,Low
+East Side,Poor,High,Moderate
+West End,Good,Low,High
+Central Station,Poor,Low,High
+West End,Moderate,High,Moderate
+East Side,Moderate,High,Low
+East Side,Moderate,Low,High
+West End,Good,Moderate,Low
+West End,Good,Moderate,High
+Park Street,Moderate,Moderate,Low
+Downtown,Moderate,Moderate,Low
+Central Station,Good,High,High
+East Side,Moderate,Low,Moderate
+Downtown,Poor,Low,Low
+Central Station,Poor,Low,Low
+Park Street,Poor,Low,Low
+Central Station,Moderate,Moderate,High
+Park Street,Good,High,Moderate
+Park Street,Moderate,Moderate,High
+Central Station,Good,Low,Low
+East Side,Poor,Low,Moderate
+East Side,Poor,Moderate,Moderate
+East Side,Poor,High,Low
+Downtown,Good,Low,Moderate
+East Side,Moderate,Moderate,High
+East Side,Good,Moderate,Low
+West End,Moderate,High,High
+Park Street,Poor,Low,High
+Central Station,Moderate,High,High
+Park Street,Good,High,High
+Park Street,Moderate,Moderate,Low
+West End,Good,Moderate,Moderate
+Park Street,Poor,High,Low
+Downtown,Good,Low,Low
+Downtown,Good,Low,High
+Park Street,Moderate,High,High
+Park Street,Moderate,High,Moderate
+Downtown,Moderate,Low,Moderate
+Central Station,Poor,Moderate,Low
+West End,Moderate,Low,Moderate
+Central Station,Poor,Moderate,Low
+West End,Poor,Low,Low
+Park Street,Poor,Low,Moderate
+West End,Good,High,High
+West End,Moderate,Moderate,Low
+East Side,Poor,High,High
+East Side,Moderate,Moderate,High
+Central Station,Moderate,High,Low
+West End,Good,High,Low
+Downtown,Poor,Moderate,Moderate
+West End,Poor,High,High
+Park Street,Moderate,Moderate,Low
+Central Station,Good,Low,Low
+East Side,Moderate,Moderate,Moderate
+East Side,Moderate,Low,High
+Park Street,Poor,Low,Low
+Park Street,Moderate,High,Moderate
+Downtown,Poor,Moderate,Low
+Park Street,Good,High,Low
+Central Station,Good,Moderate,Moderate
+Downtown,Good,High,High
+Central Station,Moderate,High,Low
+Central Station,Poor,Low,Low
+East Side,Good,Moderate,High
+Central Station,Good,Moderate,Moderate
+Central Station,Moderate,High,Low
+Central Station,Poor,Moderate,Low
+East Side,Good,High,Moderate
+Downtown,Poor,Moderate,Moderate
+East Side,Moderate,Low,Low
+Downtown,Poor,Moderate,High
+East Side,Moderate,Low,High
+Central Station,Poor,Low,Moderate
+East Side,Moderate,Low,Low
+Central Station,Poor,Low,Moderate
+Park Street,Poor,Moderate,Moderate
+Central Station,Moderate,High,Low
+Downtown,Poor,Low,Moderate
+Central Station,Poor,High,Moderate
+West End,Good,High,Low
+Central Station,Moderate,Low,Low
+Downtown,Good,High,High
+Downtown,Moderate,High,Moderate
+Park Street,Moderate,Low,Moderate
+Park Street,Moderate,Moderate,Low
+East Side,Good,Moderate,High
+Central Station,Moderate,High,Low
+East Side,Good,High,Low
+East Side,Good,Low,Moderate
+Park Street,Moderate,Moderate,Low
+West End,Poor,Low,High
+East Side,Moderate,Moderate,Low
+Downtown,Poor,Moderate,Moderate
+Downtown,Poor,Low,Low
+East Side,Moderate,Moderate,Low
+East Side,Moderate,Moderate,Moderate
+West End,Good,Low,Moderate
+West End,Poor,Moderate,High
+East Side,Poor,High,Low
+Downtown,Good,Low,Low
+East Side,Moderate,Moderate,High
+Central Station,Moderate,Low,High
+Park Street,Good,Low,Moderate
+Downtown,Moderate,Low,Low
+East Side,Good,Low,Low
+East Side,Good,Moderate,Low
+Downtown,Poor,High,High
+Downtown,Moderate,Low,High
+Park Street,Good,Moderate,Low
+Central Station,Good,Low,Low
+East Side,Poor,High,Low
+West End,Good,High,Moderate
+Downtown,Poor,High,Low
+East Side,Moderate,Low,Moderate
+West End,Good,Moderate,Low
+Downtown,Good,Moderate,Low
+Downtown,Moderate,High,Moderate
+Downtown,Poor,High,Low
+East Side,Poor,Low,Low
+Downtown,Good,Moderate,Moderate
+Park Street,Good,High,Moderate
+East Side,Moderate,Moderate,High
+Park Street,Moderate,Moderate,High
+Downtown,Good,High,Low
+Central Station,Poor,Moderate,Low
+Downtown,Moderate,High,Moderate
+West End,Poor,High,Low
+Park Street,Poor,High,Moderate
+Central Station,Poor,Low,Low
+Downtown,Moderate,Low,Low
+East Side,Poor,Low,Moderate
+Park Street,Poor,Low,Moderate
+East Side,Good,Moderate,Moderate
+Central Station,Good,High,Low
+Central Station,Moderate,High,Moderate
+Park Street,Poor,Low,Low
+Park Street,Poor,Low,High
+Park Street,Moderate,High,High
+East Side,Moderate,Low,High
+West End,Moderate,Moderate,Moderate
+Park Street,Poor,Moderate,Moderate
+Central Station,Poor,High,High
+West End,Moderate,High,High
+Central Station,Good,High,Moderate
+West End,Moderate,Moderate,High
+Central Station,Poor,High,High
+West End,Good,Low,Moderate
+East Side,Good,Moderate,High
+Central Station,Moderate,High,Moderate
+East Side,Moderate,Low,Low
+Central Station,Moderate,Moderate,Moderate
+Park Street,Poor,Low,Low
+Park Street,Poor,Low,Moderate
+Downtown,Poor,Low,Moderate
+Downtown,Poor,High,High
+Park Street,Poor,Low,High
+Downtown,Good,Moderate,High
+Park Street,Good,High,Low
+Central Station,Poor,High,Moderate
+East Side,Moderate,High,Low
+Park Street,Poor,Low,Low
+East Side,Good,Low,Moderate
+West End,Moderate,Moderate,High
+East Side,Poor,Moderate,High
+West End,Good,Low,High
+West End,Moderate,Moderate,High
+Downtown,Moderate,High,Moderate
+East Side,Poor,High,High
+East Side,Poor,Moderate,Moderate
+Central Station,Moderate,High,Moderate
+Downtown,Poor,High,High
+Central Station,Poor,Low,High
+East Side,Good,High,High
+Downtown,Good,Moderate,Moderate
+East Side,Moderate,Moderate,Moderate
+West End,Moderate,Moderate,High
+East Side,Moderate,High,Moderate
+Downtown,Good,Moderate,Low
+East Side,Moderate,High,High
+West End,Good,High,Low
+East Side,Moderate,Low,Low
+West End,Moderate,Low,High
+Park Street,Good,High,High
+Park Street,Moderate,Moderate,Low
+East Side,Good,Moderate,High
+Downtown,Moderate,Moderate,Low
+Park Street,Moderate,Low,High
+Park Street,Moderate,High,Low
+Central Station,Moderate,Moderate,Moderate
+Central Station,Moderate,Low,Moderate
+Park Street,Good,Low,Moderate
+Downtown,Good,Low,Low
+West End,Good,Low,Low
+Central Station,Good,High,Low
+Central Station,Good,High,High
+West End,Moderate,High,High
+Central Station,Moderate,Moderate,High
+Park Street,Poor,Moderate,Moderate
+West End,Moderate,Moderate,Moderate
+East Side,Moderate,High,Moderate
+Central Station,Good,Low,Low
+Downtown,Good,High,High
+Central Station,Moderate,High,Moderate
+Central Station,Moderate,High,High
+Downtown,Poor,Low,Moderate
+East Side,Poor,Low,Moderate
+East Side,Moderate,Moderate,Moderate
+Central Station,Moderate,Low,Low
+Downtown,Poor,Low,Low
+East Side,Good,High,Moderate
+West End,Good,Moderate,Moderate
+East Side,Poor,Low,High
+Park Street,Good,Low,Low
+West End,Good,Low,Moderate
+Park Street,Moderate,Moderate,Moderate
+Central Station,Moderate,Moderate,Moderate
+East Side,Poor,Moderate,Low
+Park Street,Good,Moderate,Low
+West End,Good,High,High
+East Side,Moderate,High,High
+Downtown,Poor,Moderate,High
+West End,Poor,High,Low
+West End,Moderate,Low,High
+Downtown,Moderate,High,High
+East Side,Moderate,High,High
+Downtown,Moderate,Moderate,High
+East Side,Poor,Moderate,Moderate
+Downtown,Poor,Low,High
+West End,Poor,Moderate,Moderate
+Park Street,Good,Moderate,Moderate
+Downtown,Good,High,Moderate
+Downtown,Moderate,Moderate,Low
+Central Station,Moderate,Moderate,Low
+Downtown,Poor,High,High
+Park Street,Poor,High,Low
+Park Street,Moderate,High,Moderate
+Central Station,Poor,High,Moderate
+East Side,Good,Low,Moderate
+West End,Good,High,Low
+West End,Good,Moderate,Moderate
+Park Street,Moderate,Moderate,Moderate
+East Side,Good,Low,Moderate
+Downtown,Good,Moderate,Moderate
+East Side,Poor,Low,Moderate
+West End,Poor,High,Low
+Downtown,Poor,Low,Low
+Central Station,Good,High,Low
+East Side,Poor,Low,Low
+Downtown,Good,High,High
+West End,Good,Low,Low
+West End,Good,Moderate,Low
+East Side,Poor,Moderate,Low
+Park Street,Good,Low,Low
+Park Street,Good,High,Low
+Central Station,Good,High,High
+Park Street,Moderate,Low,Low
+East Side,Good,Low,High
+Park Street,Good,High,Low
+Central Station,Moderate,Low,Moderate
+East Side,Poor,Low,High
+Central Station,Moderate,Low,Low
+Central Station,Good,Low,Moderate
+East Side,Moderate,Low,High
+East Side,Good,Low,Moderate
+Park Street,Poor,Low,Moderate
+Central Station,Good,Moderate,Low
+Park Street,Poor,Low,Low
+East Side,Good,Moderate,Low
+East Side,Good,Moderate,Moderate
+Park Street,Poor,Moderate,Low
+Downtown,Good,Low,Moderate
+East Side,Poor,Moderate,Low
+West End,Good,Moderate,High
+Downtown,Moderate,Low,High
+Central Station,Good,High,High
+West End,Moderate,High,High
+Park Street,Moderate,Low,Low
+West End,Poor,High,High
+West End,Poor,Low,Low
+East Side,Good,High,High
+Downtown,Moderate,Low,Moderate
+Downtown,Good,Low,High
+West End,Poor,Moderate,Moderate
+West End,Moderate,High,Moderate
+Park Street,Poor,High,Moderate
+West End,Moderate,Low,High
+West End,Poor,High,Low
+Downtown,Poor,Moderate,High
+West End,Poor,Moderate,Moderate
+Downtown,Moderate,High,Low
+Park Street,Moderate,High,High
+Downtown,Poor,Moderate,Moderate
+East Side,Moderate,Low,Low
+Downtown,Good,Low,Moderate
+West End,Poor,Low,Low
+East Side,Moderate,High,Low
+East Side,Poor,High,Low
+West End,Poor,Moderate,Low
+Central Station,Poor,Low,Moderate
+Park Street,Good,High,Moderate
+Park Street,Good,Low,High
+Downtown,Poor,High,High
+Park Street,Moderate,Moderate,Moderate
+West End,Poor,Low,High
+Central Station,Poor,High,Moderate
+Park Street,Moderate,Low,Low
+Central Station,Good,High,Low
+Park Street,Moderate,Moderate,Low
+Downtown,Good,Moderate,Low
+West End,Moderate,Low,Low
+East Side,Moderate,Moderate,Low
+Downtown,Moderate,Moderate,Low
+Park Street,Moderate,Moderate,Moderate
+Downtown,Poor,Moderate,Moderate
+Downtown,Good,Moderate,Low
+Park Street,Good,Moderate,Low
+Park Street,Moderate,Moderate,Moderate
+Downtown,Poor,Moderate,High
+Downtown,Poor,Low,Low
+East Side,Poor,High,Moderate
+Park Street,Good,High,Low
+Park Street,Poor,High,High
+Park Street,Poor,Moderate,High
+Park Street,Good,High,High
+Park Street,Poor,Low,Moderate
+Park Street,Moderate,High,High
+East Side,Poor,Low,Low
+Downtown,Poor,Low,Low
+Central Station,Poor,High,Moderate
+West End,Moderate,Low,Low
+Downtown,Good,Low,Low
+East Side,Poor,High,High
+Downtown,Moderate,Moderate,Moderate
+Downtown,Good,Low,Low
+Central Station,Good,High,High
+Park Street,Good,Moderate,Low
+Central Station,Poor,High,Low
+Park Street,Moderate,High,Moderate
+Downtown,Good,Moderate,Low
+Downtown,Moderate,Moderate,Low
+East Side,Moderate,High,Low
+Park Street,Moderate,Moderate,Moderate
+Park Street,Moderate,Low,Low
+Downtown,Moderate,Moderate,Low
+Central Station,Poor,Low,High
+Downtown,Moderate,High,High
+East Side,Moderate,Low,Moderate
+Park Street,Moderate,Moderate,Moderate
+Central Station,Good,Moderate,High
+Park Street,Poor,High,High
+West End,Moderate,Moderate,Moderate
+Central Station,Moderate,High,Low
+West End,Moderate,Moderate,High
+Central Station,Moderate,High,High
+West End,Good,Low,Moderate
+East Side,Good,Moderate,Low
+East Side,Moderate,Low,Moderate
+Downtown,Moderate,Moderate,High
+Central Station,Moderate,Moderate,Moderate
+Central Station,Poor,Moderate,Moderate
+Central Station,Moderate,High,High
+Central Station,Moderate,Moderate,Moderate
+West End,Poor,Low,High
+West End,Good,High,Moderate
+East Side,Moderate,Moderate,Low
+Central Station,Good,High,Low
+West End,Good,Moderate,Moderate
+West End,Good,Moderate,Moderate
+Park Street,Moderate,High,Low
+Central Station,Moderate,Moderate,Moderate
+West End,Moderate,Moderate,High
+West End,Moderate,Moderate,High
+Park Street,Moderate,High,Moderate
+Downtown,Moderate,High,High
+Downtown,Poor,Moderate,Moderate
+East Side,Poor,Moderate,High
+Park Street,Good,Low,High
+East Side,Good,Low,High
+Park Street,Good,Moderate,High
+Central Station,Good,High,High
+West End,Moderate,Moderate,Low
+Central Station,Moderate,Low,Low
+Park Street,Moderate,High,Moderate
+East Side,Poor,Low,High
+Downtown,Moderate,Low,Low
+West End,Poor,Low,Low
+Park Street,Moderate,Moderate,Moderate
+East Side,Moderate,Low,Low
+East Side,Poor,Low,Low
+East Side,Good,Moderate,Moderate
+Central Station,Moderate,Moderate,Moderate
+Downtown,Good,Moderate,Moderate
+East Side,Poor,High,Low
+Park Street,Poor,High,Low
+East Side,Poor,High,High
+Downtown,Moderate,Low,Low
+Downtown,Good,Low,High
+East Side,Poor,High,High
+Park Street,Moderate,High,High
+Central Station,Moderate,Low,Low
+Downtown,Moderate,Moderate,Low
+West End,Moderate,Low,Moderate
+Central Station,Good,High,High
+East Side,Moderate,Moderate,Moderate
+West End,Poor,Moderate,Moderate
+West End,Moderate,Low,Low
+West End,Good,Moderate,High
+East Side,Moderate,Low,Moderate
+Downtown,Poor,Moderate,Moderate
+Central Station,Moderate,Low,High
+Central Station,Poor,Moderate,Moderate
+Downtown,Moderate,High,Moderate
+Park Street,Poor,Low,Moderate
+Central Station,Poor,Low,High
+Park Street,Poor,Moderate,Low
+West End,Poor,Low,High
+Central Station,Moderate,Low,Low
+Park Street,Moderate,Moderate,Moderate
+West End,Moderate,Moderate,Moderate
+Downtown,Moderate,High,High
+Central Station,Good,Low,Low
+West End,Moderate,High,Low
+Central Station,Good,High,Moderate
+Park Street,Moderate,Low,Moderate
+West End,Good,Moderate,Moderate
+Downtown,Good,Low,High
+West End,Good,High,Low
+East Side,Good,Moderate,Low
+Park Street,Good,Moderate,Moderate
+East Side,Good,Low,Moderate
+Downtown,Good,Moderate,Moderate
+Park Street,Poor,Moderate,Moderate
+Downtown,Poor,High,High
+West End,Good,Moderate,Low
+West End,Poor,High,High
+West End,Poor,Moderate,Moderate
+Park Street,Moderate,High,High
+Central Station,Good,Moderate,Low
+Park Street,Poor,Low,Moderate
+Downtown,Good,Moderate,High
+West End,Moderate,Low,Moderate
+Downtown,Poor,Low,Low
+Park Street,Poor,Low,Moderate
+West End,Good,High,High
+Downtown,Good,High,Low
+East Side,Good,High,High
+Downtown,Good,High,High
+Central Station,Good,Low,High
+Central Station,Moderate,Low,Moderate
+West End,Moderate,Moderate,High
+Park Street,Poor,Moderate,Moderate
+Downtown,Moderate,High,Low
+Downtown,Moderate,Moderate,High
+Park Street,Good,Low,High
+Park Street,Good,Low,Moderate
+Downtown,Good,Moderate,High
+West End,Good,Low,Moderate
+East Side,Moderate,Moderate,Moderate
+Park Street,Good,Low,Moderate
+West End,Good,High,Moderate
+Downtown,Moderate,Low,Low
+West End,Good,Moderate,High
+Park Street,Moderate,High,Moderate
+East Side,Poor,Low,Moderate
+Central Station,Moderate,Moderate,High
+Downtown,Good,High,High
+West End,Moderate,Moderate,High
+Park Street,Poor,Low,High
+Downtown,Good,Low,Moderate
+Park Street,Good,Low,Low
+East Side,Moderate,Low,High
+East Side,Moderate,Moderate,Low
+Park Street,Moderate,High,Low
+West End,Good,Low,Moderate
+Central Station,Poor,Moderate,High
+West End,Good,High,Moderate
+Downtown,Poor,Low,Moderate
+Park Street,Good,High,High
+Central Station,Moderate,Moderate,Moderate
+Park Street,Good,Low,Moderate
+Downtown,Good,Moderate,High
+East Side,Poor,High,High
+West End,Good,Low,High
+Downtown,Good,High,High
+Downtown,Good,High,Moderate
+Central Station,Good,High,Low
+Downtown,Moderate,Low,Moderate
+East Side,Moderate,High,High
+Downtown,Poor,Low,Low
+West End,Poor,High,Moderate
+Central Station,Good,Low,Low
+Central Station,Moderate,Moderate,High
+Park Street,Poor,Low,Low
+Central Station,Poor,Moderate,Low
+East Side,Moderate,High,Low
+East Side,Poor,Low,Moderate
+Central Station,Good,High,Low
+Central Station,Poor,Low,Moderate
+East Side,Moderate,High,Low
+Park Street,Moderate,Moderate,High
+Park Street,Poor,Low,Low
+Park Street,Poor,Moderate,High
+Central Station,Poor,High,Low
+Downtown,Good,High,Moderate
+Park Street,Poor,Moderate,High
+Park Street,Poor,Moderate,Moderate
+East Side,Good,Low,Low
+Park Street,Poor,Low,Low
+Downtown,Good,High,High
+East Side,Moderate,Moderate,Low
+Central Station,Moderate,Moderate,Low
+East Side,Good,High,High
+East Side,Poor,Moderate,Low
+Park Street,Good,Moderate,High
+Downtown,Moderate,Moderate,High
+Park Street,Good,High,Moderate
+Park Street,Moderate,High,High
+Central Station,Poor,Low,Moderate
+West End,Good,Low,High
+Downtown,Poor,Low,Moderate

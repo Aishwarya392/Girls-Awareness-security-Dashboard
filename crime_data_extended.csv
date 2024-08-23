@@ -1,0 +1,701 @@
+Incident_ID,Date,Incident_Type,Location,Latitude,Longitude,Age,Gender,Time_of_Day,Reported_By
+101,04-11-2024,Harassment,Park Street,34.0506032,-118.2452934,45,Female,Night,Citizen
+102,06-07-2024,Harassment,Central Station,34.0597462,-118.2479719,31,Female,Evening,Citizen
+103,22-07-2024,Harassment,Downtown,34.05110097,-118.2486284,10,Female,Morning,Police
+104,16-06-2024,Harassment,West End,34.05131378,-118.2478795,36,Female,Evening,Citizen
+105,07-08-2024,Assault,East Side,34.05774697,-118.2474473,39,Female,Afternoon,Citizen
+106,05-12-2024,Assault,Park Street,34.05449434,-118.2499116,14,Female,Morning,Police
+107,15-03-2024,Kidnapping,Downtown,34.05259261,-118.2437036,10,Male,Night,Police
+108,20-09-2024,Kidnapping,East Side,34.05305056,-118.2496612,46,Male,Afternoon,Citizen
+109,17-04-2024,Assault,Downtown,34.052565,-118.2439261,35,Female,Afternoon,Citizen
+110,01-06-2024,Harassment,West End,34.05154128,-118.2416859,41,Female,Evening,Citizen
+111,08-01-2024,Kidnapping,East Side,34.05741702,-118.2425587,27,Female,Evening,Police
+112,17-08-2024,Kidnapping,Downtown,34.05007712,-118.2487765,14,Female,Afternoon,Citizen
+113,04-10-2024,Harassment,East Side,34.05225008,-118.2448581,48,Female,Evening,Citizen
+114,17-11-2024,Assault,West End,34.05618217,-118.2491873,45,Female,Afternoon,Citizen
+115,15-01-2024,Harassment,Park Street,34.05292135,-118.2405608,37,Female,Night,Police
+116,06-10-2024,Harassment,Park Street,34.05183142,-118.2456046,16,Male,Night,Police
+117,22-07-2024,Kidnapping,West End,34.0538418,-118.242719,27,Male,Morning,Citizen
+118,26-08-2024,Assault,East Side,34.05537742,-118.246959,28,Female,Morning,Citizen
+119,28-10-2024,Assault,Central Station,34.05600377,-118.2405276,45,Female,Afternoon,Police
+120,04-05-2024,Assault,West End,34.05921015,-118.2417747,14,Female,Morning,Police
+121,29-09-2024,Harassment,Park Street,34.05740166,-118.2461076,32,Female,Night,Police
+122,04-10-2024,Harassment,East Side,34.05874107,-118.2473398,27,Female,Night,Police
+123,21-02-2024,Kidnapping,Central Station,34.05804301,-118.242568,28,Female,Afternoon,Citizen
+124,22-04-2024,Harassment,East Side,34.05034291,-118.2431262,48,Female,Afternoon,Citizen
+125,06-06-2024,Harassment,Park Street,34.05520745,-118.2435941,24,Male,Afternoon,Citizen
+126,07-05-2024,Assault,Central Station,34.05942728,-118.2488865,15,Female,Night,Police
+127,22-07-2024,Harassment,Park Street,34.05918427,-118.2406776,29,Female,Night,Police
+128,16-09-2024,Harassment,West End,34.05312984,-118.2469794,31,Female,Evening,Police
+129,06-07-2024,Harassment,Park Street,34.05270953,-118.243513,36,Female,Afternoon,Police
+130,03-12-2024,Assault,Downtown,34.05393417,-118.2428714,47,Male,Morning,Citizen
+131,26-07-2024,Assault,East Side,34.05971186,-118.2421009,36,Female,Morning,Citizen
+132,09-10-2024,Assault,Park Street,34.05688951,-118.2430973,28,Female,Morning,Police
+133,04-12-2024,Kidnapping,Park Street,34.05341151,-118.2432248,27,Female,Evening,Citizen
+134,15-03-2024,Kidnapping,Downtown,34.05199914,-118.2435097,22,Female,Afternoon,Police
+135,31-12-2024,Assault,Park Street,34.05672579,-118.2487615,46,Female,Afternoon,Citizen
+136,21-12-2024,Kidnapping,West End,34.0522545,-118.2481052,16,Male,Night,Police
+137,14-11-2024,Harassment,East Side,34.05191704,-118.2455517,23,Female,Night,Citizen
+138,27-06-2024,Harassment,Park Street,34.05053219,-118.2468545,40,Female,Afternoon,Citizen
+139,18-12-2024,Harassment,West End,34.05143628,-118.2475182,14,Female,Afternoon,Police
+140,05-04-2024,Kidnapping,West End,34.05427205,-118.2473899,48,Female,Morning,Citizen
+141,21-09-2024,Assault,Park Street,34.0504291,-118.2433995,46,Male,Night,Police
+142,16-07-2024,Assault,West End,34.05388692,-118.24823,27,Female,Evening,Citizen
+143,18-09-2024,Kidnapping,West End,34.05860424,-118.2474559,37,Female,Evening,Citizen
+144,10-07-2024,Assault,Park Street,34.05248438,-118.2427722,21,Female,Morning,Citizen
+145,28-04-2024,Harassment,Central Station,34.05417063,-118.2466306,45,Female,Afternoon,Citizen
+146,28-04-2024,Harassment,Central Station,34.05990833,-118.2403436,19,Female,Evening,Police
+147,23-03-2024,Harassment,Downtown,34.05866066,-118.2444302,22,Female,Morning,Police
+148,14-11-2024,Harassment,Central Station,34.05819209,-118.2418544,36,Female,Afternoon,Police
+149,16-01-2024,Harassment,Central Station,34.0501241,-118.2431314,16,Female,Evening,Citizen
+150,19-06-2024,Kidnapping,Downtown,34.05851217,-118.2472992,48,Female,Afternoon,Citizen
+151,22-06-2024,Kidnapping,West End,34.05877226,-118.2451949,34,Female,Evening,Police
+152,14-05-2024,Assault,Central Station,34.0595083,-118.2429148,44,Female,Afternoon,Citizen
+153,20-10-2024,Harassment,East Side,34.05837264,-118.241971,23,Female,Night,Police
+154,23-08-2024,Harassment,West End,34.05691605,-118.2436855,34,Male,Evening,Police
+155,24-04-2024,Assault,Park Street,34.05183123,-118.2413824,22,Female,Evening,Police
+156,25-10-2024,Kidnapping,Park Street,34.05635511,-118.2444062,20,Female,Night,Police
+157,22-06-2024,Assault,West End,34.05122109,-118.2402391,39,Female,Afternoon,Citizen
+158,27-04-2024,Kidnapping,Downtown,34.05615231,-118.244372,15,Female,Afternoon,Citizen
+159,15-10-2024,Harassment,Downtown,34.05418811,-118.2471462,17,Female,Morning,Citizen
+160,21-05-2024,Kidnapping,Central Station,34.05076627,-118.2438219,33,Female,Night,Police
+161,30-05-2024,Assault,East Side,34.05976086,-118.2427302,32,Female,Afternoon,Police
+162,18-05-2024,Harassment,East Side,34.0540476,-118.2429759,49,Female,Afternoon,Police
+163,26-07-2024,Assault,East Side,34.05305501,-118.2463054,30,Female,Evening,Citizen
+164,02-08-2024,Assault,Park Street,34.05771633,-118.2431752,34,Female,Night,Citizen
+165,03-03-2024,Kidnapping,Park Street,34.0567263,-118.2472704,30,Female,Night,Police
+166,03-09-2024,Harassment,Central Station,34.05799043,-118.2442269,45,Female,Evening,Citizen
+167,17-12-2024,Harassment,Downtown,34.05462871,-118.242716,10,Female,Night,Citizen
+168,28-02-2024,Assault,Park Street,34.05748854,-118.24632,32,Female,Evening,Police
+169,26-07-2024,Kidnapping,Central Station,34.0515279,-118.2415743,47,Male,Morning,Citizen
+170,22-07-2024,Kidnapping,Downtown,34.05748463,-118.2452874,18,Female,Morning,Citizen
+171,03-01-2024,Harassment,Park Street,34.0523052,-118.2444815,48,Female,Afternoon,Citizen
+172,10-11-2024,Kidnapping,Central Station,34.05608886,-118.242659,13,Female,Night,Police
+173,18-08-2024,Assault,Downtown,34.05446619,-118.247457,34,Female,Evening,Police
+174,27-03-2024,Harassment,East Side,34.05585027,-118.2427277,45,Female,Evening,Citizen
+175,19-04-2024,Assault,Downtown,34.05306426,-118.249362,21,Female,Morning,Citizen
+176,19-04-2024,Assault,Central Station,34.05054242,-118.2454944,31,Male,Night,Citizen
+177,11-09-2024,Assault,Downtown,34.05870095,-118.2429754,42,Female,Morning,Police
+178,23-05-2024,Harassment,Central Station,34.05044247,-118.245675,41,Female,Night,Police
+179,04-11-2024,Harassment,West End,34.05740306,-118.2497005,18,Male,Morning,Police
+180,04-09-2024,Kidnapping,Central Station,34.05095799,-118.2487946,17,Female,Night,Citizen
+181,29-10-2024,Kidnapping,West End,34.05441326,-118.248724,30,Female,Night,Police
+182,01-10-2024,Assault,Downtown,34.05054238,-118.2495784,22,Female,Evening,Police
+183,07-04-2024,Assault,East Side,34.05573979,-118.2436303,38,Female,Night,Citizen
+184,19-05-2024,Harassment,Central Station,34.05600245,-118.2422675,17,Female,Evening,Police
+185,24-05-2024,Harassment,Central Station,34.05032265,-118.249297,24,Female,Night,Police
+186,23-03-2024,Harassment,West End,34.05263,-118.2459209,46,Female,Night,Police
+187,18-10-2024,Assault,Park Street,34.05439602,-118.2494918,33,Female,Evening,Citizen
+188,03-09-2024,Harassment,Central Station,34.05064718,-118.247075,11,Female,Morning,Police
+189,29-09-2024,Harassment,West End,34.05437765,-118.2470051,20,Female,Evening,Police
+190,10-07-2024,Harassment,East Side,34.05627669,-118.249564,15,Female,Afternoon,Police
+191,03-09-2024,Harassment,East Side,34.05867889,-118.2477954,20,Female,Afternoon,Police
+192,18-08-2024,Harassment,East Side,34.05584472,-118.2449786,18,Female,Night,Citizen
+193,22-02-2024,Harassment,Park Street,34.05350492,-118.2484336,48,Female,Morning,Police
+194,28-10-2024,Assault,Downtown,34.05823762,-118.2480166,35,Female,Morning,Police
+195,15-10-2024,Kidnapping,Downtown,34.0580634,-118.2495824,24,Female,Morning,Citizen
+196,09-10-2024,Assault,West End,34.05169536,-118.2444393,25,Male,Afternoon,Police
+197,30-01-2024,Kidnapping,Central Station,34.05694044,-118.2477142,17,Female,Night,Police
+198,15-09-2024,Kidnapping,Downtown,34.05381108,-118.2401189,44,Female,Night,Citizen
+199,02-08-2024,Kidnapping,Park Street,34.05926308,-118.2484588,26,Female,Evening,Citizen
+200,30-06-2024,Assault,Central Station,34.05202293,-118.2478945,41,Female,Afternoon,Police
+201,09-06-2024,Kidnapping,Park Street,34.05922025,-118.2428318,17,Female,Night,Citizen
+202,15-04-2024,Harassment,Downtown,34.05940327,-118.2449207,31,Female,Afternoon,Citizen
+203,03-01-2024,Harassment,Park Street,34.05443848,-118.2423694,30,Female,Evening,Police
+204,06-08-2024,Assault,West End,34.05895433,-118.2480304,44,Female,Morning,Police
+205,06-04-2024,Kidnapping,Park Street,34.05941475,-118.2412059,26,Female,Afternoon,Police
+206,15-07-2024,Assault,Park Street,34.05039378,-118.240556,45,Female,Night,Police
+207,16-12-2024,Kidnapping,Downtown,34.05053854,-118.2414583,27,Female,Night,Citizen
+208,27-03-2024,Assault,Central Station,34.05272753,-118.24345,24,Male,Night,Citizen
+209,24-06-2024,Harassment,Downtown,34.05792317,-118.2488434,30,Female,Night,Citizen
+210,08-03-2024,Assault,Park Street,34.05039799,-118.2491045,31,Female,Night,Citizen
+211,06-05-2024,Kidnapping,East Side,34.05206094,-118.2410838,30,Female,Evening,Citizen
+212,30-01-2024,Kidnapping,East Side,34.05428088,-118.2459854,39,Female,Morning,Police
+213,26-08-2024,Harassment,East Side,34.05867807,-118.2497457,17,Female,Afternoon,Citizen
+214,29-04-2024,Assault,West End,34.05841548,-118.2406561,40,Female,Night,Police
+215,03-03-2024,Harassment,East Side,34.05303387,-118.2415769,41,Female,Morning,Police
+216,09-04-2024,Kidnapping,West End,34.05323337,-118.245712,43,Female,Afternoon,Police
+217,01-11-2024,Kidnapping,East Side,34.05184168,-118.2488536,11,Female,Night,Police
+218,28-03-2024,Kidnapping,East Side,34.05248202,-118.2415679,47,Female,Night,Citizen
+219,03-04-2024,Kidnapping,East Side,34.05872108,-118.2472908,12,Male,Morning,Citizen
+220,15-10-2024,Kidnapping,Central Station,34.05822124,-118.2403124,45,Female,Morning,Citizen
+221,27-01-2024,Kidnapping,East Side,34.05020944,-118.2464646,29,Female,Morning,Citizen
+222,23-08-2024,Assault,Downtown,34.05928188,-118.2418037,13,Female,Night,Citizen
+223,06-03-2024,Assault,East Side,34.05762599,-118.2477977,21,Female,Evening,Police
+224,23-10-2024,Harassment,Park Street,34.05445756,-118.2494089,26,Female,Evening,Citizen
+225,11-11-2024,Kidnapping,East Side,34.05355289,-118.2499718,44,Female,Night,Citizen
+226,22-04-2024,Assault,Central Station,34.05934745,-118.2487341,23,Female,Afternoon,Police
+227,12-11-2024,Harassment,East Side,34.05041928,-118.2402423,23,Female,Night,Police
+228,05-09-2024,Harassment,Central Station,34.05261621,-118.2494152,24,Female,Morning,Citizen
+229,24-05-2024,Assault,Central Station,34.05176132,-118.2457666,23,Female,Afternoon,Citizen
+230,06-09-2024,Kidnapping,Park Street,34.0525362,-118.2415246,17,Female,Evening,Police
+231,10-10-2024,Kidnapping,Park Street,34.05942362,-118.2454231,30,Female,Evening,Citizen
+232,16-01-2024,Harassment,East Side,34.059057,-118.2415144,26,Female,Morning,Citizen
+233,15-09-2024,Kidnapping,East Side,34.05372029,-118.2498349,31,Female,Afternoon,Police
+234,03-04-2024,Kidnapping,East Side,34.05411896,-118.2486811,14,Female,Afternoon,Citizen
+235,20-08-2024,Assault,Downtown,34.05896651,-118.2430287,32,Male,Evening,Citizen
+236,16-07-2024,Kidnapping,West End,34.05508261,-118.2446744,10,Female,Evening,Police
+237,30-08-2024,Kidnapping,Central Station,34.05507302,-118.2497304,33,Female,Morning,Police
+238,24-11-2024,Assault,Park Street,34.05212654,-118.2426246,13,Female,Evening,Police
+239,13-12-2024,Harassment,Park Street,34.05385353,-118.247595,10,Female,Morning,Citizen
+240,17-04-2024,Harassment,Downtown,34.05432294,-118.2456031,42,Female,Afternoon,Citizen
+241,29-11-2024,Kidnapping,Central Station,34.05965073,-118.2427876,41,Female,Afternoon,Citizen
+242,19-06-2024,Harassment,Downtown,34.05168585,-118.2416794,35,Female,Morning,Citizen
+243,20-10-2024,Kidnapping,Downtown,34.05418555,-118.2459999,40,Female,Afternoon,Police
+244,27-02-2024,Harassment,Park Street,34.05435316,-118.2496521,21,Female,Evening,Police
+245,13-08-2024,Assault,Central Station,34.05109857,-118.2422474,24,Female,Evening,Police
+246,21-11-2024,Harassment,Park Street,34.05345328,-118.2440979,24,Female,Night,Police
+247,07-08-2024,Kidnapping,East Side,34.05866319,-118.2419915,18,Female,Afternoon,Citizen
+248,14-05-2024,Harassment,Central Station,34.05373363,-118.2496347,11,Female,Afternoon,Citizen
+249,28-08-2024,Kidnapping,Park Street,34.05178241,-118.2412046,34,Female,Night,Police
+250,11-09-2024,Assault,Park Street,34.05071321,-118.2458816,38,Male,Evening,Citizen
+251,18-01-2024,Kidnapping,Downtown,34.05844422,-118.2475051,15,Female,Morning,Police
+252,27-12-2024,Kidnapping,East Side,34.05039246,-118.2493105,46,Female,Evening,Citizen
+253,04-05-2024,Harassment,West End,34.05769477,-118.2479152,24,Female,Morning,Citizen
+254,24-10-2024,Kidnapping,West End,34.05143699,-118.2476436,39,Female,Afternoon,Police
+255,23-04-2024,Kidnapping,Park Street,34.05839785,-118.2476624,47,Female,Morning,Citizen
+256,17-03-2024,Assault,Central Station,34.05951472,-118.2479894,20,Female,Morning,Police
+257,13-06-2024,Harassment,Downtown,34.05243388,-118.244219,48,Female,Afternoon,Citizen
+258,06-01-2024,Harassment,East Side,34.05987632,-118.248943,40,Female,Morning,Police
+259,29-04-2024,Kidnapping,East Side,34.05925692,-118.2426608,37,Female,Evening,Police
+260,23-10-2024,Assault,Downtown,34.05354364,-118.2456715,15,Female,Morning,Citizen
+261,08-05-2024,Assault,Park Street,34.05391185,-118.2464485,36,Female,Morning,Police
+262,14-01-2024,Kidnapping,Central Station,34.05905759,-118.2489702,18,Female,Afternoon,Citizen
+263,02-07-2024,Harassment,Downtown,34.05984907,-118.2487658,23,Female,Evening,Citizen
+264,11-12-2024,Harassment,East Side,34.05329159,-118.2408156,49,Female,Morning,Police
+265,21-01-2024,Harassment,West End,34.05232336,-118.2463131,17,Female,Evening,Citizen
+266,18-07-2024,Assault,Park Street,34.05065183,-118.2469656,33,Female,Evening,Citizen
+267,04-03-2024,Assault,Park Street,34.05588524,-118.2421594,26,Female,Morning,Police
+268,14-07-2024,Kidnapping,East Side,34.05872085,-118.2443055,37,Female,Afternoon,Citizen
+269,21-12-2024,Harassment,East Side,34.05232235,-118.2455302,40,Female,Afternoon,Police
+270,19-03-2024,Kidnapping,East Side,34.05876174,-118.248674,31,Female,Afternoon,Police
+271,05-10-2024,Assault,East Side,34.05398886,-118.2499605,25,Female,Morning,Police
+272,19-03-2024,Assault,Park Street,34.05951239,-118.2462297,31,Female,Night,Citizen
+273,20-05-2024,Assault,West End,34.05962956,-118.2464109,45,Female,Morning,Citizen
+274,02-01-2024,Assault,Downtown,34.05733836,-118.2412655,35,Female,Night,Police
+275,24-12-2024,Assault,West End,34.05912529,-118.2427732,48,Female,Night,Citizen
+276,16-08-2024,Kidnapping,Park Street,34.05045387,-118.24592,20,Female,Afternoon,Police
+277,23-08-2024,Kidnapping,Park Street,34.05411731,-118.245145,29,Female,Afternoon,Police
+278,17-03-2024,Assault,Park Street,34.05577581,-118.2410033,24,Female,Afternoon,Citizen
+279,26-04-2024,Kidnapping,West End,34.05905201,-118.2478912,46,Female,Morning,Police
+280,19-07-2024,Assault,Park Street,34.05421414,-118.2467982,13,Female,Night,Citizen
+281,29-08-2024,Assault,East Side,34.05562356,-118.2495747,35,Female,Afternoon,Citizen
+282,01-04-2024,Harassment,Downtown,34.05089712,-118.2481647,19,Female,Afternoon,Citizen
+283,15-02-2024,Kidnapping,East Side,34.05419192,-118.2488161,20,Female,Night,Citizen
+284,16-12-2024,Harassment,Park Street,34.05214029,-118.249409,31,Female,Morning,Citizen
+285,04-05-2024,Kidnapping,Park Street,34.05935607,-118.2400254,21,Male,Evening,Police
+286,27-03-2024,Harassment,Central Station,34.05972133,-118.2408001,48,Female,Evening,Citizen
+287,05-04-2024,Assault,Central Station,34.05096405,-118.2481849,44,Female,Evening,Citizen
+288,20-02-2024,Harassment,Downtown,34.05156197,-118.2448134,14,Female,Afternoon,Citizen
+289,12-12-2024,Kidnapping,Downtown,34.05599638,-118.240261,18,Female,Night,Citizen
+290,23-12-2024,Assault,Downtown,34.05896872,-118.2464327,30,Female,Afternoon,Citizen
+291,27-01-2024,Assault,West End,34.05354886,-118.2432569,18,Female,Night,Police
+292,01-05-2024,Harassment,East Side,34.05983536,-118.2413704,18,Female,Night,Citizen
+293,16-06-2024,Harassment,Central Station,34.05550468,-118.2444595,13,Female,Afternoon,Citizen
+294,30-11-2024,Harassment,Park Street,34.05277756,-118.2487339,31,Male,Evening,Police
+295,18-06-2024,Harassment,East Side,34.05399206,-118.2403654,24,Female,Evening,Police
+296,27-12-2024,Kidnapping,Park Street,34.05967047,-118.2474437,29,Female,Afternoon,Police
+297,14-11-2024,Harassment,Park Street,34.05152859,-118.246185,13,Female,Evening,Police
+298,20-03-2024,Assault,East Side,34.05038299,-118.2452372,43,Female,Afternoon,Police
+299,08-09-2024,Assault,Downtown,34.05052668,-118.2496033,46,Female,Afternoon,Citizen
+300,06-02-2024,Harassment,Central Station,34.0587598,-118.2451212,21,Female,Night,Police
+301,29-12-2024,Assault,Park Street,34.05559223,-118.2415254,24,Female,Evening,Citizen
+302,31-05-2024,Assault,Downtown,34.05579103,-118.2438161,29,Male,Night,Police
+303,17-01-2024,Kidnapping,Downtown,34.05699452,-118.2471427,43,Female,Evening,Citizen
+304,24-01-2024,Harassment,Park Street,34.05586062,-118.2414247,31,Female,Night,Citizen
+305,03-01-2024,Assault,Park Street,34.05799385,-118.2427676,34,Female,Afternoon,Citizen
+306,03-10-2024,Assault,Downtown,34.0559374,-118.241772,37,Female,Morning,Police
+307,13-10-2024,Assault,East Side,34.05846504,-118.2411892,36,Female,Evening,Police
+308,21-12-2024,Harassment,West End,34.05016383,-118.2459382,34,Female,Morning,Police
+309,15-02-2024,Harassment,Downtown,34.05761356,-118.2451917,47,Female,Evening,Citizen
+310,02-02-2024,Kidnapping,West End,34.05616141,-118.2415345,41,Female,Afternoon,Citizen
+311,12-04-2024,Assault,Central Station,34.05881772,-118.2402033,25,Female,Afternoon,Citizen
+312,06-05-2024,Kidnapping,Downtown,34.05919464,-118.2467725,23,Female,Morning,Citizen
+313,13-12-2024,Harassment,West End,34.05071418,-118.2434821,28,Female,Night,Citizen
+314,29-09-2024,Kidnapping,Central Station,34.05378672,-118.245925,19,Female,Night,Citizen
+315,21-04-2024,Kidnapping,Central Station,34.05598629,-118.2421376,32,Female,Night,Police
+316,29-01-2024,Kidnapping,Park Street,34.05624503,-118.2455108,48,Female,Evening,Police
+317,31-10-2024,Harassment,Downtown,34.05524552,-118.2466435,23,Female,Afternoon,Citizen
+318,30-03-2024,Assault,Park Street,34.05168092,-118.2454444,22,Male,Evening,Citizen
+319,08-10-2024,Kidnapping,East Side,34.05479956,-118.2405984,39,Male,Afternoon,Citizen
+320,10-04-2024,Kidnapping,East Side,34.05027283,-118.2459889,30,Female,Evening,Citizen
+321,09-11-2024,Assault,Central Station,34.05618838,-118.2479039,16,Male,Evening,Citizen
+322,30-09-2024,Assault,West End,34.05471607,-118.2434967,27,Female,Afternoon,Police
+323,09-06-2024,Kidnapping,Downtown,34.05053482,-118.2414542,28,Female,Afternoon,Citizen
+324,05-01-2024,Kidnapping,Downtown,34.05300086,-118.240259,10,Female,Afternoon,Citizen
+325,05-07-2024,Kidnapping,Downtown,34.05728764,-118.2426917,11,Female,Evening,Citizen
+326,05-12-2024,Kidnapping,Central Station,34.05064278,-118.2469556,40,Female,Evening,Citizen
+327,09-07-2024,Assault,Downtown,34.05618894,-118.2452063,37,Female,Morning,Police
+328,02-12-2024,Harassment,West End,34.05379541,-118.2458376,33,Female,Night,Police
+329,09-09-2024,Assault,West End,34.05377955,-118.2422685,21,Female,Afternoon,Citizen
+330,18-08-2024,Kidnapping,Park Street,34.05703224,-118.24574,48,Female,Afternoon,Police
+331,15-07-2024,Assault,Downtown,34.0502628,-118.2475744,10,Female,Night,Citizen
+332,28-05-2024,Assault,Central Station,34.05493681,-118.242491,15,Female,Night,Police
+333,04-09-2024,Harassment,Downtown,34.05614491,-118.2440068,14,Female,Morning,Citizen
+334,12-01-2024,Assault,Central Station,34.0506405,-118.2497583,37,Female,Morning,Citizen
+335,05-12-2024,Harassment,East Side,34.05078436,-118.240368,28,Female,Evening,Police
+336,17-04-2024,Harassment,Park Street,34.05212029,-118.2499217,45,Female,Night,Citizen
+337,12-02-2024,Harassment,Park Street,34.05593245,-118.2419228,24,Female,Evening,Citizen
+338,15-02-2024,Kidnapping,West End,34.05412065,-118.2490991,32,Female,Morning,Police
+339,08-12-2024,Assault,West End,34.05399391,-118.2413167,19,Female,Evening,Citizen
+340,05-01-2024,Kidnapping,West End,34.05121269,-118.2411344,29,Female,Afternoon,Citizen
+341,27-06-2024,Assault,East Side,34.05852645,-118.2404302,33,Female,Evening,Police
+342,05-09-2024,Harassment,West End,34.05219776,-118.2430292,17,Female,Afternoon,Citizen
+343,22-05-2024,Harassment,Central Station,34.05311455,-118.2476335,45,Female,Evening,Citizen
+344,18-03-2024,Assault,West End,34.05090936,-118.2414039,16,Female,Evening,Citizen
+345,14-06-2024,Harassment,West End,34.05349044,-118.245689,46,Female,Afternoon,Citizen
+346,23-12-2024,Kidnapping,Central Station,34.05113996,-118.2431211,36,Female,Night,Citizen
+347,12-01-2024,Kidnapping,East Side,34.05357875,-118.2439345,21,Female,Evening,Police
+348,29-02-2024,Harassment,West End,34.05624494,-118.2423223,43,Female,Night,Citizen
+349,28-10-2024,Harassment,West End,34.05437701,-118.2499095,17,Female,Evening,Police
+350,23-08-2024,Assault,Central Station,34.05823838,-118.2449537,25,Female,Morning,Citizen
+351,02-10-2024,Kidnapping,Park Street,34.05302869,-118.24141,10,Female,Evening,Police
+352,20-11-2024,Assault,West End,34.05355141,-118.2413378,30,Male,Morning,Police
+353,16-10-2024,Assault,West End,34.059384,-118.2435697,42,Female,Afternoon,Citizen
+354,27-11-2024,Harassment,Downtown,34.05927475,-118.2448934,22,Female,Afternoon,Police
+355,23-05-2024,Harassment,West End,34.05578592,-118.2435124,29,Female,Afternoon,Police
+356,08-10-2024,Assault,East Side,34.05916908,-118.2493743,17,Female,Evening,Police
+357,18-05-2024,Kidnapping,Central Station,34.05509382,-118.2416124,19,Female,Night,Citizen
+358,03-07-2024,Harassment,West End,34.05682221,-118.2492058,16,Male,Morning,Citizen
+359,26-01-2024,Harassment,West End,34.05524729,-118.2491404,23,Female,Evening,Citizen
+360,28-10-2024,Harassment,West End,34.05583516,-118.2450521,33,Female,Evening,Citizen
+361,04-05-2024,Assault,Park Street,34.05459726,-118.2421169,11,Male,Night,Police
+362,18-01-2024,Harassment,Park Street,34.05866568,-118.247312,35,Female,Night,Citizen
+363,13-06-2024,Assault,East Side,34.05361277,-118.2435173,10,Male,Evening,Police
+364,17-11-2024,Assault,Park Street,34.05080676,-118.2464733,31,Female,Morning,Citizen
+365,07-02-2024,Harassment,Central Station,34.05829666,-118.2433631,41,Female,Night,Police
+366,04-07-2024,Harassment,East Side,34.05652304,-118.2409297,21,Female,Evening,Police
+367,27-12-2024,Assault,Park Street,34.05768613,-118.2469364,11,Female,Night,Citizen
+368,08-12-2024,Harassment,Park Street,34.05273876,-118.2421406,48,Male,Night,Citizen
+369,12-08-2024,Kidnapping,East Side,34.05734175,-118.2414453,28,Female,Morning,Police
+370,26-05-2024,Assault,Downtown,34.05897675,-118.2490012,34,Female,Evening,Police
+371,26-03-2024,Assault,Downtown,34.0539785,-118.2466257,11,Female,Night,Police
+372,29-04-2024,Harassment,Downtown,34.05177227,-118.2496607,19,Female,Night,Police
+373,28-02-2024,Assault,Central Station,34.05385645,-118.2420095,43,Female,Afternoon,Police
+374,03-11-2024,Harassment,Downtown,34.05139204,-118.2427901,41,Female,Morning,Citizen
+375,11-05-2024,Harassment,West End,34.05325277,-118.2402217,45,Female,Afternoon,Police
+376,04-06-2024,Assault,West End,34.05143607,-118.2447768,42,Female,Afternoon,Citizen
+377,24-09-2024,Harassment,East Side,34.05926941,-118.2487831,39,Female,Morning,Police
+378,22-12-2024,Harassment,Downtown,34.05816499,-118.2443613,47,Female,Night,Citizen
+379,10-01-2024,Assault,Central Station,34.0579593,-118.2426799,38,Male,Morning,Police
+380,21-09-2024,Assault,Downtown,34.05993256,-118.2422625,28,Female,Evening,Citizen
+381,21-05-2024,Assault,East Side,34.05225489,-118.240282,40,Female,Afternoon,Citizen
+382,10-02-2024,Assault,East Side,34.05614927,-118.2474576,16,Female,Night,Citizen
+383,06-02-2024,Harassment,Central Station,34.05674036,-118.2453122,47,Female,Night,Police
+384,02-01-2024,Assault,Central Station,34.0507309,-118.2436509,49,Female,Evening,Police
+385,23-09-2024,Harassment,Central Station,34.05819995,-118.2464392,16,Female,Night,Citizen
+386,04-07-2024,Harassment,West End,34.05810648,-118.242402,18,Female,Morning,Citizen
+387,03-07-2024,Harassment,Park Street,34.0596129,-118.246304,48,Female,Afternoon,Citizen
+388,22-01-2024,Harassment,Central Station,34.05673287,-118.2402306,42,Female,Afternoon,Police
+389,11-11-2024,Kidnapping,West End,34.05368852,-118.2465207,18,Female,Afternoon,Citizen
+390,06-04-2024,Kidnapping,Downtown,34.05356779,-118.2402408,24,Female,Evening,Citizen
+391,03-08-2024,Assault,West End,34.05288416,-118.2435773,33,Female,Evening,Citizen
+392,01-08-2024,Harassment,Downtown,34.05568485,-118.2468053,37,Female,Evening,Citizen
+393,12-11-2024,Assault,Downtown,34.05464253,-118.2464843,44,Female,Evening,Citizen
+394,29-06-2024,Harassment,East Side,34.0533489,-118.2480129,48,Female,Afternoon,Citizen
+395,03-09-2024,Kidnapping,West End,34.05735799,-118.2463913,30,Female,Night,Citizen
+396,30-08-2024,Harassment,West End,34.05136297,-118.2478688,37,Female,Afternoon,Citizen
+397,27-02-2024,Harassment,East Side,34.05354239,-118.2439704,28,Female,Night,Police
+398,08-07-2024,Assault,Central Station,34.0502271,-118.2406206,16,Female,Afternoon,Police
+399,06-05-2024,Assault,West End,34.05943841,-118.2451858,31,Female,Evening,Citizen
+400,18-01-2024,Harassment,East Side,34.05688149,-118.2474453,15,Female,Morning,Police
+401,01-12-2024,Assault,West End,34.0505225,-118.2465656,28,Female,Evening,Citizen
+402,03-06-2024,Assault,East Side,34.05776945,-118.2498915,14,Female,Morning,Police
+403,03-02-2024,Kidnapping,Park Street,34.05488159,-118.2425562,15,Female,Afternoon,Police
+404,20-04-2024,Kidnapping,Park Street,34.05580425,-118.2451255,17,Female,Night,Citizen
+405,29-12-2024,Assault,West End,34.05143629,-118.2467764,27,Male,Evening,Police
+406,21-07-2024,Assault,Park Street,34.05836735,-118.2459563,46,Female,Night,Police
+407,31-05-2024,Kidnapping,Central Station,34.05034462,-118.2432989,40,Female,Night,Citizen
+408,04-11-2024,Kidnapping,Park Street,34.05510026,-118.2486138,28,Female,Morning,Police
+409,14-08-2024,Assault,Park Street,34.05797711,-118.2410887,18,Female,Afternoon,Citizen
+410,05-11-2024,Kidnapping,Park Street,34.05657836,-118.245111,39,Female,Afternoon,Citizen
+411,09-04-2024,Harassment,Central Station,34.05552214,-118.2498733,22,Female,Afternoon,Police
+412,27-03-2024,Harassment,Central Station,34.0553437,-118.2451268,49,Female,Afternoon,Citizen
+413,06-09-2024,Harassment,Downtown,34.05313653,-118.2492166,18,Female,Morning,Citizen
+414,10-02-2024,Assault,Downtown,34.05874434,-118.2455552,42,Female,Afternoon,Citizen
+415,11-03-2024,Assault,Park Street,34.05426751,-118.2406526,48,Female,Morning,Citizen
+416,17-05-2024,Assault,Central Station,34.05173426,-118.2450483,30,Female,Afternoon,Citizen
+417,16-12-2024,Assault,West End,34.05912301,-118.2456106,19,Female,Morning,Police
+418,19-03-2024,Assault,Central Station,34.05457122,-118.2467161,21,Female,Evening,Police
+419,25-01-2024,Kidnapping,West End,34.05438986,-118.2469481,14,Female,Morning,Police
+420,29-10-2024,Kidnapping,Central Station,34.05297944,-118.2492959,20,Female,Morning,Police
+421,05-01-2024,Harassment,East Side,34.05601453,-118.2485212,39,Female,Night,Police
+422,26-07-2024,Harassment,Central Station,34.05275049,-118.2413274,26,Female,Afternoon,Citizen
+423,20-02-2024,Assault,West End,34.05825397,-118.2404255,37,Female,Night,Citizen
+424,09-01-2024,Harassment,Central Station,34.05805415,-118.2489547,15,Female,Evening,Police
+425,25-06-2024,Kidnapping,East Side,34.05024417,-118.2473694,10,Female,Evening,Citizen
+426,12-12-2024,Assault,Central Station,34.05755599,-118.2465255,18,Male,Evening,Police
+427,13-05-2024,Kidnapping,Central Station,34.05229526,-118.2448288,17,Female,Afternoon,Police
+428,13-10-2024,Kidnapping,West End,34.05982615,-118.241449,32,Female,Night,Citizen
+429,03-06-2024,Kidnapping,Central Station,34.05554184,-118.2496848,17,Female,Afternoon,Citizen
+430,19-10-2024,Harassment,Downtown,34.05606822,-118.2401884,34,Female,Night,Police
+431,25-09-2024,Assault,East Side,34.05068813,-118.2477456,21,Female,Night,Citizen
+432,11-04-2024,Assault,East Side,34.05424874,-118.2405942,14,Male,Night,Police
+433,16-07-2024,Harassment,Downtown,34.05478498,-118.2477529,10,Female,Morning,Police
+434,10-04-2024,Kidnapping,East Side,34.05536279,-118.2463038,37,Female,Morning,Citizen
+435,26-12-2024,Harassment,Central Station,34.05479569,-118.2436294,33,Female,Night,Police
+436,23-06-2024,Assault,East Side,34.05929909,-118.2420279,33,Female,Morning,Citizen
+437,09-09-2024,Harassment,Park Street,34.05129611,-118.2466529,36,Female,Evening,Citizen
+438,19-08-2024,Assault,West End,34.05639175,-118.2461079,11,Female,Evening,Citizen
+439,15-03-2024,Harassment,Park Street,34.05725989,-118.2460295,25,Female,Night,Citizen
+440,26-03-2024,Kidnapping,Downtown,34.05442438,-118.2440208,21,Female,Morning,Police
+441,11-11-2024,Kidnapping,West End,34.05943755,-118.2466706,29,Male,Night,Citizen
+442,25-12-2024,Kidnapping,Downtown,34.05894963,-118.2433123,45,Female,Afternoon,Police
+443,19-10-2024,Kidnapping,East Side,34.05672988,-118.2402703,16,Female,Morning,Police
+444,10-07-2024,Harassment,Central Station,34.0561127,-118.2445042,44,Female,Morning,Police
+445,08-02-2024,Assault,East Side,34.05526836,-118.2476625,41,Female,Afternoon,Police
+446,24-03-2024,Kidnapping,East Side,34.05794641,-118.2420668,10,Male,Night,Police
+447,29-05-2024,Harassment,East Side,34.05363814,-118.2474366,25,Female,Evening,Citizen
+448,06-08-2024,Kidnapping,Downtown,34.05163808,-118.249853,46,Female,Morning,Police
+449,17-06-2024,Assault,Downtown,34.05965508,-118.2455262,25,Female,Afternoon,Police
+450,22-08-2024,Assault,West End,34.05565262,-118.2494195,15,Female,Night,Police
+451,12-03-2024,Assault,Downtown,34.05077125,-118.2479828,36,Female,Evening,Police
+452,23-11-2024,Kidnapping,West End,34.05004406,-118.2447914,32,Female,Morning,Citizen
+453,06-10-2024,Kidnapping,East Side,34.05426713,-118.2461056,10,Female,Morning,Police
+454,03-06-2024,Harassment,West End,34.05661945,-118.2491248,38,Female,Evening,Citizen
+455,02-05-2024,Kidnapping,Downtown,34.05798575,-118.245866,16,Female,Afternoon,Citizen
+456,12-10-2024,Harassment,Central Station,34.0569665,-118.246348,31,Female,Afternoon,Police
+457,23-06-2024,Assault,West End,34.05286029,-118.2480893,15,Female,Evening,Police
+458,04-07-2024,Harassment,West End,34.05416029,-118.2484509,32,Female,Morning,Citizen
+459,08-12-2024,Harassment,Park Street,34.05128215,-118.2452437,36,Female,Night,Police
+460,24-08-2024,Harassment,Park Street,34.05174397,-118.2433456,38,Female,Afternoon,Police
+461,07-11-2024,Harassment,East Side,34.05414499,-118.2494953,41,Female,Evening,Police
+462,16-03-2024,Kidnapping,East Side,34.05291954,-118.242694,32,Female,Night,Police
+463,19-05-2024,Kidnapping,East Side,34.05991438,-118.2473975,38,Male,Night,Police
+464,12-07-2024,Harassment,West End,34.05184918,-118.2415537,31,Female,Night,Citizen
+465,09-01-2024,Kidnapping,East Side,34.05517973,-118.2440089,49,Male,Night,Police
+466,03-04-2024,Harassment,West End,34.05434158,-118.2497067,39,Female,Afternoon,Citizen
+467,19-06-2024,Assault,Central Station,34.05058138,-118.2423771,48,Female,Evening,Police
+468,31-08-2024,Harassment,Central Station,34.05812994,-118.2422715,41,Female,Afternoon,Citizen
+469,08-03-2024,Harassment,East Side,34.05328629,-118.2410996,17,Female,Evening,Police
+470,16-08-2024,Harassment,Park Street,34.05936208,-118.2476692,26,Female,Afternoon,Citizen
+471,05-07-2024,Kidnapping,West End,34.0597655,-118.2441696,37,Female,Afternoon,Police
+472,20-06-2024,Harassment,Central Station,34.05220018,-118.2434891,10,Female,Afternoon,Citizen
+473,20-09-2024,Assault,West End,34.05493809,-118.243036,23,Female,Morning,Police
+474,22-05-2024,Harassment,Downtown,34.05215417,-118.2471866,19,Female,Evening,Police
+475,01-08-2024,Kidnapping,West End,34.05108077,-118.2450596,19,Female,Morning,Citizen
+476,30-06-2024,Assault,Park Street,34.05933155,-118.2426713,28,Female,Night,Citizen
+477,05-03-2024,Harassment,West End,34.05981636,-118.2409235,39,Female,Evening,Citizen
+478,23-03-2024,Assault,Park Street,34.05995803,-118.2463676,49,Female,Morning,Police
+479,26-04-2024,Harassment,Downtown,34.0544002,-118.2479986,39,Female,Evening,Citizen
+480,09-06-2024,Harassment,Downtown,34.05518167,-118.2435108,48,Female,Morning,Citizen
+481,28-07-2024,Assault,Downtown,34.05339529,-118.2475228,44,Female,Morning,Police
+482,05-12-2024,Kidnapping,East Side,34.05767153,-118.2431823,10,Female,Evening,Citizen
+483,25-09-2024,Assault,Central Station,34.05003116,-118.240723,17,Female,Evening,Police
+484,22-01-2024,Assault,Downtown,34.05210073,-118.2436996,11,Female,Morning,Police
+485,21-07-2024,Kidnapping,East Side,34.05155686,-118.2437244,19,Female,Afternoon,Police
+486,27-04-2024,Kidnapping,East Side,34.05894529,-118.2410792,27,Female,Afternoon,Citizen
+487,03-03-2024,Harassment,East Side,34.05613868,-118.2462846,41,Female,Morning,Citizen
+488,24-10-2024,Kidnapping,Park Street,34.05117175,-118.244909,44,Male,Morning,Police
+489,04-02-2024,Kidnapping,Central Station,34.05567057,-118.2493112,47,Female,Night,Citizen
+490,12-04-2024,Harassment,Park Street,34.05948404,-118.245739,49,Female,Afternoon,Citizen
+491,16-11-2024,Assault,Downtown,34.0537545,-118.2444974,18,Female,Night,Citizen
+492,16-09-2024,Assault,Central Station,34.05314141,-118.2427611,37,Male,Night,Citizen
+493,18-02-2024,Harassment,Park Street,34.05514499,-118.2440279,12,Female,Morning,Citizen
+494,18-01-2024,Harassment,West End,34.05509151,-118.2424336,39,Female,Night,Citizen
+495,03-10-2024,Kidnapping,West End,34.05452758,-118.2421237,18,Female,Night,Police
+496,28-03-2024,Kidnapping,East Side,34.05944492,-118.2452354,19,Female,Afternoon,Citizen
+497,09-07-2024,Assault,Downtown,34.05501792,-118.2423875,39,Female,Night,Police
+498,06-05-2024,Harassment,West End,34.05633863,-118.249921,39,Male,Evening,Police
+499,08-07-2024,Assault,East Side,34.05904409,-118.2442731,44,Male,Afternoon,Citizen
+500,20-07-2024,Assault,Central Station,34.05224188,-118.2487094,32,Female,Morning,Citizen
+501,13-02-2024,Kidnapping,Downtown,34.05872669,-118.2457728,25,Female,Evening,Citizen
+502,20-09-2024,Kidnapping,Central Station,34.05964512,-118.2490999,47,Female,Afternoon,Police
+503,09-01-2024,Kidnapping,Park Street,34.05180181,-118.2422793,49,Female,Evening,Police
+504,26-08-2024,Kidnapping,Central Station,34.0585565,-118.2432975,13,Female,Afternoon,Police
+505,04-04-2024,Harassment,West End,34.05745017,-118.2466947,43,Female,Afternoon,Police
+506,05-09-2024,Assault,Central Station,34.05598999,-118.2444619,47,Female,Evening,Police
+507,11-10-2024,Assault,Central Station,34.0502961,-118.2437624,20,Female,Afternoon,Citizen
+508,05-01-2024,Harassment,Downtown,34.05852766,-118.2427946,24,Female,Evening,Police
+509,25-02-2024,Kidnapping,Downtown,34.05597814,-118.2478703,46,Female,Afternoon,Police
+510,11-09-2024,Harassment,West End,34.05430985,-118.2400172,48,Female,Afternoon,Police
+511,06-08-2024,Assault,Park Street,34.05629638,-118.2424979,23,Female,Morning,Citizen
+512,02-09-2024,Kidnapping,Park Street,34.05722966,-118.2427862,23,Female,Night,Citizen
+513,01-02-2024,Harassment,East Side,34.05050889,-118.2488768,40,Female,Morning,Police
+514,16-10-2024,Harassment,Central Station,34.05269245,-118.2485369,36,Female,Afternoon,Police
+515,06-01-2024,Harassment,Park Street,34.05372841,-118.2465092,30,Female,Evening,Police
+516,18-05-2024,Assault,Park Street,34.05273539,-118.2471907,19,Female,Evening,Citizen
+517,23-11-2024,Harassment,East Side,34.05086278,-118.2411553,18,Female,Evening,Citizen
+518,29-04-2024,Assault,West End,34.05238491,-118.2431566,14,Female,Night,Police
+519,11-10-2024,Kidnapping,East Side,34.05356187,-118.2499939,16,Female,Afternoon,Citizen
+520,13-11-2024,Harassment,West End,34.05163455,-118.2411332,31,Female,Morning,Citizen
+521,22-08-2024,Assault,Park Street,34.05592152,-118.2421249,23,Female,Evening,Police
+522,07-03-2024,Assault,Central Station,34.05484752,-118.2494956,40,Male,Night,Citizen
+523,31-03-2024,Assault,West End,34.05176493,-118.2413846,32,Female,Night,Police
+524,13-09-2024,Assault,Downtown,34.05264587,-118.2480652,36,Female,Afternoon,Police
+525,21-10-2024,Kidnapping,Park Street,34.05211001,-118.2480865,19,Female,Evening,Police
+526,16-06-2024,Assault,West End,34.05487744,-118.2453506,23,Female,Evening,Citizen
+527,08-06-2024,Harassment,East Side,34.0539435,-118.2486009,12,Female,Morning,Citizen
+528,08-10-2024,Kidnapping,Park Street,34.05178812,-118.2453858,27,Female,Evening,Citizen
+529,02-11-2024,Harassment,Central Station,34.05300849,-118.2460539,19,Female,Night,Police
+530,08-12-2024,Assault,Downtown,34.05173834,-118.2484596,43,Female,Night,Citizen
+531,16-01-2024,Assault,Central Station,34.05661145,-118.2450401,10,Female,Evening,Citizen
+532,26-05-2024,Kidnapping,Central Station,34.05072009,-118.2443272,36,Female,Afternoon,Police
+533,26-12-2024,Assault,West End,34.05768326,-118.2423001,24,Female,Night,Citizen
+534,15-07-2024,Harassment,West End,34.05326372,-118.246969,14,Female,Morning,Citizen
+535,26-08-2024,Assault,Park Street,34.05848897,-118.2416183,40,Female,Night,Police
+536,02-07-2024,Assault,West End,34.05708443,-118.2463411,36,Female,Afternoon,Citizen
+537,14-05-2024,Harassment,Downtown,34.05739203,-118.2497155,42,Female,Night,Citizen
+538,19-07-2024,Assault,Downtown,34.05129656,-118.2438973,21,Female,Morning,Police
+539,20-11-2024,Assault,West End,34.05346277,-118.240507,25,Female,Night,Citizen
+540,25-04-2024,Kidnapping,Central Station,34.05493518,-118.2409126,22,Female,Morning,Citizen
+541,25-07-2024,Kidnapping,West End,34.05344171,-118.2486242,39,Female,Morning,Police
+542,15-06-2024,Assault,Central Station,34.05379239,-118.2445116,35,Female,Morning,Police
+543,14-07-2024,Kidnapping,Central Station,34.05859616,-118.2474913,10,Female,Night,Citizen
+544,29-04-2024,Harassment,Park Street,34.05019322,-118.2406312,46,Female,Night,Citizen
+545,14-06-2024,Harassment,East Side,34.05365508,-118.2439595,29,Male,Night,Citizen
+546,29-02-2024,Kidnapping,Park Street,34.05923732,-118.2498035,40,Female,Afternoon,Police
+547,24-12-2024,Harassment,East Side,34.05202894,-118.2489544,30,Female,Night,Citizen
+548,03-05-2024,Harassment,Central Station,34.05681992,-118.2460191,38,Female,Afternoon,Citizen
+549,10-05-2024,Assault,East Side,34.05714566,-118.2453059,38,Female,Evening,Police
+550,24-03-2024,Harassment,East Side,34.05745338,-118.2432478,47,Female,Evening,Citizen
+551,29-01-2024,Assault,West End,34.05801531,-118.2467173,27,Female,Morning,Police
+552,29-04-2024,Assault,East Side,34.05852787,-118.2405039,48,Female,Morning,Citizen
+553,25-01-2024,Kidnapping,West End,34.05505538,-118.2489638,45,Female,Evening,Police
+554,09-02-2024,Kidnapping,Central Station,34.05729153,-118.2400934,25,Female,Afternoon,Police
+555,06-09-2024,Harassment,West End,34.0502863,-118.2484807,38,Female,Night,Citizen
+556,20-12-2024,Kidnapping,Central Station,34.0537782,-118.2402725,16,Female,Afternoon,Citizen
+557,24-02-2024,Kidnapping,Central Station,34.05814376,-118.243924,13,Female,Evening,Police
+558,25-05-2024,Harassment,Park Street,34.05969021,-118.2470024,12,Female,Night,Citizen
+559,07-02-2024,Harassment,West End,34.05246182,-118.249082,37,Female,Evening,Citizen
+560,01-03-2024,Harassment,East Side,34.05951743,-118.2491374,31,Female,Morning,Police
+561,29-12-2024,Kidnapping,West End,34.05490655,-118.2498266,46,Female,Afternoon,Police
+562,26-06-2024,Harassment,Park Street,34.05442719,-118.2442739,30,Female,Morning,Citizen
+563,24-07-2024,Assault,Downtown,34.05783332,-118.2412082,32,Male,Night,Citizen
+564,05-10-2024,Kidnapping,Downtown,34.05129647,-118.2414344,20,Female,Night,Police
+565,09-02-2024,Harassment,Central Station,34.0562188,-118.243453,26,Female,Evening,Citizen
+566,04-08-2024,Harassment,East Side,34.05057724,-118.2494469,43,Female,Morning,Police
+567,29-03-2024,Kidnapping,Park Street,34.05068183,-118.2414155,21,Female,Morning,Police
+568,27-03-2024,Harassment,Park Street,34.05588573,-118.2438636,49,Female,Night,Police
+569,02-09-2024,Kidnapping,Downtown,34.05389099,-118.2432857,17,Female,Afternoon,Police
+570,19-07-2024,Assault,West End,34.05596602,-118.2438707,49,Female,Afternoon,Police
+571,07-03-2024,Kidnapping,Park Street,34.05217974,-118.243343,37,Female,Evening,Police
+572,15-04-2024,Harassment,Central Station,34.05154829,-118.2439975,25,Female,Afternoon,Police
+573,17-02-2024,Assault,East Side,34.05299752,-118.2438364,33,Female,Evening,Citizen
+574,19-02-2024,Harassment,Downtown,34.05459631,-118.2445413,13,Female,Afternoon,Police
+575,05-12-2024,Kidnapping,Park Street,34.05042176,-118.2436926,37,Female,Evening,Citizen
+576,10-09-2024,Kidnapping,West End,34.05978748,-118.2402114,26,Female,Night,Citizen
+577,19-05-2024,Assault,East Side,34.05669946,-118.2493945,43,Female,Night,Citizen
+578,04-02-2024,Kidnapping,Downtown,34.05787332,-118.2452977,28,Female,Morning,Police
+579,09-09-2024,Kidnapping,East Side,34.05945319,-118.2404788,41,Female,Evening,Police
+580,21-02-2024,Assault,Central Station,34.05022647,-118.2486918,17,Female,Night,Police
+581,08-06-2024,Assault,West End,34.05963676,-118.2471662,16,Female,Night,Police
+582,11-10-2024,Assault,West End,34.05113718,-118.2466041,45,Female,Night,Citizen
+583,28-08-2024,Assault,Central Station,34.0507446,-118.2472818,36,Male,Morning,Citizen
+584,07-11-2024,Assault,Park Street,34.05826742,-118.2483396,10,Female,Afternoon,Police
+585,26-08-2024,Assault,Central Station,34.059318,-118.2451788,34,Female,Evening,Citizen
+586,09-02-2024,Kidnapping,Park Street,34.05039725,-118.2419533,44,Female,Afternoon,Citizen
+587,15-08-2024,Harassment,Park Street,34.05250195,-118.2406124,47,Female,Afternoon,Police
+588,27-02-2024,Harassment,Central Station,34.05447913,-118.2468583,43,Female,Afternoon,Citizen
+589,25-11-2024,Assault,Central Station,34.05158064,-118.2429791,36,Female,Evening,Police
+590,22-03-2024,Harassment,Park Street,34.05362439,-118.2492295,42,Female,Night,Citizen
+591,22-10-2024,Harassment,Downtown,34.05636731,-118.247414,28,Female,Morning,Citizen
+592,07-10-2024,Kidnapping,Downtown,34.05606302,-118.2497892,25,Female,Evening,Citizen
+593,30-06-2024,Kidnapping,Downtown,34.05617619,-118.2492845,10,Male,Afternoon,Police
+594,24-12-2024,Harassment,Downtown,34.05512666,-118.2439602,36,Male,Evening,Citizen
+595,21-03-2024,Kidnapping,Downtown,34.0580953,-118.2452262,46,Female,Afternoon,Citizen
+596,04-12-2024,Harassment,East Side,34.05159545,-118.2406466,19,Female,Morning,Police
+597,06-03-2024,Harassment,Park Street,34.05721837,-118.2450186,21,Female,Morning,Police
+598,16-04-2024,Assault,East Side,34.05530996,-118.2444945,17,Female,Afternoon,Citizen
+599,30-12-2024,Harassment,Central Station,34.05700756,-118.2444589,28,Female,Night,Police
+600,19-02-2024,Assault,Park Street,34.05296645,-118.2461845,25,Female,Night,Police
+601,08-05-2024,Harassment,Downtown,34.05864411,-118.2406133,40,Female,Night,Citizen
+602,25-01-2024,Harassment,East Side,34.05008171,-118.2409747,43,Female,Afternoon,Police
+603,07-04-2024,Assault,Downtown,34.054996,-118.2493033,26,Female,Afternoon,Police
+604,01-03-2024,Kidnapping,Central Station,34.05360614,-118.246567,41,Female,Morning,Police
+605,14-02-2024,Kidnapping,Central Station,34.05978626,-118.2480471,46,Female,Evening,Citizen
+606,04-06-2024,Harassment,Central Station,34.05180974,-118.2485386,13,Female,Afternoon,Citizen
+607,22-05-2024,Harassment,West End,34.05407946,-118.2412396,26,Female,Morning,Citizen
+608,06-07-2024,Kidnapping,Central Station,34.05448077,-118.2423264,41,Female,Afternoon,Citizen
+609,21-02-2024,Assault,Central Station,34.05082109,-118.246346,45,Female,Evening,Citizen
+610,30-04-2024,Harassment,Park Street,34.05382348,-118.2418982,22,Female,Morning,Police
+611,15-06-2024,Assault,West End,34.05596544,-118.2499289,32,Female,Night,Police
+612,25-10-2024,Harassment,Central Station,34.0536879,-118.249861,12,Female,Night,Citizen
+613,11-09-2024,Harassment,Downtown,34.0569746,-118.2429812,44,Female,Night,Citizen
+614,25-11-2024,Harassment,Downtown,34.05517503,-118.2447197,35,Female,Evening,Police
+615,28-05-2024,Assault,Central Station,34.05225036,-118.2429862,27,Female,Afternoon,Citizen
+616,07-07-2024,Kidnapping,East Side,34.05902561,-118.2411629,35,Female,Morning,Police
+617,27-08-2024,Harassment,West End,34.05306349,-118.242726,18,Female,Night,Police
+618,11-08-2024,Assault,Park Street,34.0518465,-118.2411769,28,Female,Night,Police
+619,14-06-2024,Harassment,West End,34.0578373,-118.2402403,36,Male,Evening,Citizen
+620,27-12-2024,Harassment,Central Station,34.05668121,-118.245705,47,Female,Night,Police
+621,01-12-2024,Kidnapping,Downtown,34.05559458,-118.2499342,21,Female,Evening,Citizen
+622,29-03-2024,Harassment,Downtown,34.05287818,-118.2461197,12,Female,Afternoon,Police
+623,05-03-2024,Harassment,Central Station,34.05864257,-118.2493953,13,Female,Afternoon,Police
+624,25-04-2024,Assault,Downtown,34.05475252,-118.2470697,46,Female,Evening,Police
+625,13-02-2024,Harassment,Park Street,34.0579071,-118.2448929,12,Female,Evening,Citizen
+626,19-03-2024,Harassment,Central Station,34.0583044,-118.2415477,39,Female,Afternoon,Citizen
+627,04-09-2024,Assault,Central Station,34.05398846,-118.2475003,35,Female,Night,Citizen
+628,25-03-2024,Harassment,East Side,34.05621806,-118.2427549,15,Male,Evening,Police
+629,07-09-2024,Harassment,East Side,34.05248828,-118.2419658,36,Female,Night,Citizen
+630,09-08-2024,Harassment,Central Station,34.05049095,-118.2429788,26,Female,Afternoon,Citizen
+631,19-03-2024,Harassment,Park Street,34.052815,-118.2493407,27,Female,Night,Police
+632,13-12-2024,Harassment,Park Street,34.05240898,-118.2451207,16,Female,Night,Citizen
+633,02-09-2024,Assault,West End,34.05128891,-118.2490974,23,Female,Afternoon,Citizen
+634,14-06-2024,Assault,Downtown,34.05795026,-118.2472929,26,Female,Night,Police
+635,24-04-2024,Assault,Downtown,34.0582926,-118.2454452,30,Female,Afternoon,Citizen
+636,01-01-2024,Harassment,Park Street,34.05247643,-118.2488248,12,Female,Afternoon,Citizen
+637,21-07-2024,Kidnapping,West End,34.05357125,-118.2433706,42,Female,Evening,Police
+638,24-11-2024,Harassment,Park Street,34.05917042,-118.2426547,13,Female,Night,Citizen
+639,12-06-2024,Assault,Central Station,34.05773224,-118.2402976,48,Female,Evening,Citizen
+640,07-01-2024,Kidnapping,East Side,34.05231669,-118.241125,19,Female,Afternoon,Police
+641,03-05-2024,Harassment,East Side,34.05843457,-118.2482806,38,Female,Afternoon,Citizen
+642,28-06-2024,Harassment,Central Station,34.05328548,-118.2441054,41,Female,Night,Police
+643,09-01-2024,Harassment,Central Station,34.05359969,-118.2401696,41,Female,Afternoon,Police
+644,04-09-2024,Assault,West End,34.05252888,-118.2487607,21,Female,Night,Citizen
+645,09-12-2024,Harassment,Central Station,34.05934968,-118.2434171,15,Female,Morning,Police
+646,24-02-2024,Harassment,East Side,34.05296081,-118.2453788,43,Female,Morning,Citizen
+647,24-04-2024,Assault,East Side,34.05888148,-118.2407986,39,Female,Morning,Citizen
+648,09-09-2024,Assault,Downtown,34.05576004,-118.2489595,10,Female,Morning,Police
+649,10-02-2024,Harassment,East Side,34.05898908,-118.2462291,33,Male,Night,Citizen
+650,04-11-2024,Assault,Park Street,34.05083188,-118.2441884,20,Female,Evening,Police
+651,20-09-2024,Kidnapping,West End,34.05647102,-118.2434766,38,Male,Evening,Citizen
+652,29-12-2024,Assault,Central Station,34.05240318,-118.248081,35,Female,Afternoon,Citizen
+653,25-10-2024,Assault,East Side,34.05208406,-118.2460582,27,Female,Morning,Police
+654,03-05-2024,Harassment,Park Street,34.05971286,-118.2410673,16,Female,Evening,Citizen
+655,03-06-2024,Harassment,West End,34.05778455,-118.2440808,36,Female,Morning,Citizen
+656,20-06-2024,Assault,Park Street,34.0560452,-118.2472247,11,Male,Evening,Police
+657,03-09-2024,Harassment,Central Station,34.05834049,-118.2427748,24,Female,Evening,Citizen
+658,01-06-2024,Kidnapping,West End,34.05092517,-118.2483027,25,Female,Morning,Citizen
+659,27-05-2024,Assault,Central Station,34.05458211,-118.242126,39,Male,Afternoon,Citizen
+660,02-08-2024,Harassment,Central Station,34.05929766,-118.2483302,15,Female,Evening,Citizen
+661,04-04-2024,Assault,East Side,34.05518649,-118.24748,15,Female,Afternoon,Police
+662,25-08-2024,Harassment,East Side,34.05092535,-118.2402449,29,Female,Evening,Citizen
+663,28-11-2024,Kidnapping,East Side,34.05607531,-118.2428644,19,Female,Afternoon,Police
+664,06-08-2024,Assault,Central Station,34.05073883,-118.2405603,29,Female,Evening,Police
+665,13-04-2024,Assault,Downtown,34.05986894,-118.245691,25,Female,Night,Citizen
+666,27-11-2024,Assault,Park Street,34.05044987,-118.2413111,34,Female,Morning,Police
+667,08-06-2024,Harassment,Park Street,34.05607927,-118.2451159,34,Female,Afternoon,Citizen
+668,12-01-2024,Assault,Park Street,34.05768452,-118.2476076,37,Female,Morning,Citizen
+669,21-07-2024,Harassment,Downtown,34.05158824,-118.2426252,33,Female,Morning,Citizen
+670,09-07-2024,Harassment,West End,34.05701319,-118.2404412,10,Female,Afternoon,Citizen
+671,29-03-2024,Harassment,Central Station,34.05650335,-118.2407703,46,Female,Afternoon,Police
+672,25-12-2024,Harassment,East Side,34.05040204,-118.2427623,25,Female,Morning,Police
+673,28-04-2024,Kidnapping,East Side,34.0537356,-118.2429568,40,Female,Evening,Police
+674,13-01-2024,Assault,Central Station,34.05669862,-118.2483255,25,Female,Morning,Police
+675,15-12-2024,Kidnapping,Central Station,34.05847813,-118.2447645,18,Female,Afternoon,Police
+676,10-04-2024,Kidnapping,Downtown,34.05403533,-118.2482006,27,Female,Evening,Citizen
+677,28-07-2024,Harassment,East Side,34.0568858,-118.2414254,33,Female,Evening,Police
+678,14-08-2024,Harassment,East Side,34.0577149,-118.2452667,45,Female,Evening,Citizen
+679,14-10-2024,Kidnapping,Downtown,34.05122213,-118.2487887,41,Female,Night,Police
+680,22-07-2024,Kidnapping,Park Street,34.05504063,-118.2426378,49,Female,Evening,Police
+681,18-10-2024,Kidnapping,Downtown,34.05627727,-118.2416574,22,Female,Evening,Police
+682,29-05-2024,Assault,East Side,34.05511998,-118.24422,37,Female,Night,Citizen
+683,01-08-2024,Harassment,Downtown,34.05914498,-118.2426205,18,Female,Afternoon,Citizen
+684,29-07-2024,Harassment,East Side,34.0543041,-118.2441101,23,Female,Afternoon,Citizen
+685,15-08-2024,Kidnapping,East Side,34.05013688,-118.2464795,46,Female,Evening,Citizen
+686,10-04-2024,Assault,Downtown,34.0556489,-118.2415575,44,Female,Night,Police
+687,03-03-2024,Kidnapping,East Side,34.05005076,-118.2412211,21,Female,Evening,Citizen
+688,27-06-2024,Harassment,Park Street,34.05734417,-118.2485423,48,Female,Night,Police
+689,04-10-2024,Kidnapping,Downtown,34.05140991,-118.243115,14,Male,Night,Police
+690,02-03-2024,Assault,West End,34.05612792,-118.2405074,19,Female,Evening,Police
+691,14-08-2024,Kidnapping,Downtown,34.05534005,-118.2420578,35,Female,Afternoon,Citizen
+692,17-01-2024,Harassment,Downtown,34.05789987,-118.2415312,17,Female,Evening,Citizen
+693,07-06-2024,Harassment,Park Street,34.0549902,-118.2449518,17,Male,Night,Citizen
+694,02-05-2024,Assault,West End,34.05540118,-118.2496519,32,Female,Afternoon,Police
+695,12-05-2024,Assault,Park Street,34.05725195,-118.2477127,10,Female,Night,Police
+696,11-10-2024,Kidnapping,Park Street,34.05274453,-118.2466889,40,Female,Afternoon,Citizen
+697,03-10-2024,Assault,West End,34.05718138,-118.2495295,47,Female,Night,Police
+698,08-05-2024,Assault,Central Station,34.05683236,-118.2483089,13,Female,Night,Police
+699,08-11-2024,Harassment,West End,34.05091671,-118.2465974,39,Female,Night,Police
+700,12-02-2024,Harassment,West End,34.05805715,-118.2415148,42,Female,Morning,Citizen
+701,13-11-2024,Harassment,West End,34.0514903,-118.2498579,46,Female,Morning,Police
+702,15-08-2024,Assault,Central Station,34.05258945,-118.2496285,20,Female,Night,Citizen
+703,20-05-2024,Kidnapping,Central Station,34.05696028,-118.2433318,10,Female,Evening,Police
+704,31-08-2024,Assault,Park Street,34.05503657,-118.243257,48,Female,Morning,Citizen
+705,28-09-2024,Harassment,Downtown,34.05831204,-118.2469201,18,Female,Night,Police
+706,09-11-2024,Assault,West End,34.05672594,-118.2448625,40,Female,Night,Citizen
+707,12-07-2024,Harassment,West End,34.05050829,-118.2461707,49,Female,Afternoon,Citizen
+708,25-11-2024,Kidnapping,Central Station,34.05127102,-118.2431635,32,Female,Afternoon,Police
+709,03-12-2024,Harassment,West End,34.05626505,-118.2415885,19,Female,Evening,Citizen
+710,14-05-2024,Assault,Park Street,34.05635659,-118.2498628,25,Female,Afternoon,Police
+711,17-05-2024,Harassment,Park Street,34.0569415,-118.2436046,45,Female,Morning,Citizen
+712,02-01-2024,Assault,Central Station,34.05538363,-118.2420519,49,Female,Evening,Citizen
+713,06-08-2024,Harassment,Central Station,34.05094045,-118.2486746,40,Female,Afternoon,Citizen
+714,18-12-2024,Kidnapping,Park Street,34.05881536,-118.2416653,47,Female,Morning,Citizen
+715,31-03-2024,Assault,Downtown,34.05328377,-118.2469763,13,Female,Night,Police
+716,08-09-2024,Kidnapping,West End,34.0510191,-118.2470843,23,Female,Night,Citizen
+717,03-09-2024,Kidnapping,East Side,34.05212356,-118.2474445,37,Female,Evening,Police
+718,16-08-2024,Assault,East Side,34.05895549,-118.2482082,19,Female,Morning,Police
+719,12-06-2024,Kidnapping,West End,34.05446213,-118.2428684,36,Female,Evening,Citizen
+720,12-12-2024,Harassment,Park Street,34.05303847,-118.2441782,43,Female,Night,Citizen
+721,13-10-2024,Kidnapping,Central Station,34.05947592,-118.2495243,41,Female,Evening,Citizen
+722,28-08-2024,Harassment,Downtown,34.05374493,-118.2416754,16,Female,Afternoon,Citizen
+723,19-06-2024,Kidnapping,West End,34.05947071,-118.2487415,28,Female,Night,Police
+724,21-11-2024,Harassment,Park Street,34.05705955,-118.2403721,39,Female,Evening,Police
+725,09-05-2024,Assault,Downtown,34.05048917,-118.2440326,29,Female,Night,Citizen
+726,14-08-2024,Assault,Central Station,34.0524108,-118.2434505,34,Female,Afternoon,Citizen
+727,20-08-2024,Assault,Downtown,34.05230832,-118.2435501,20,Female,Evening,Police
+728,08-03-2024,Kidnapping,East Side,34.0501265,-118.2463334,37,Female,Afternoon,Police
+729,21-08-2024,Assault,Downtown,34.05716717,-118.2453737,47,Female,Afternoon,Police
+730,25-07-2024,Harassment,East Side,34.05049983,-118.2489734,45,Female,Morning,Police
+731,25-11-2024,Kidnapping,Park Street,34.05334763,-118.24593,10,Female,Night,Police
+732,17-06-2024,Assault,Central Station,34.05428697,-118.2419138,21,Female,Morning,Citizen
+733,03-08-2024,Assault,East Side,34.05787827,-118.2446075,16,Female,Afternoon,Police
+734,27-07-2024,Kidnapping,Central Station,34.05726485,-118.244076,43,Female,Afternoon,Police
+735,30-12-2024,Kidnapping,Park Street,34.05065408,-118.2475494,30,Female,Morning,Police
+736,01-09-2024,Harassment,East Side,34.05775391,-118.2407733,21,Female,Afternoon,Police
+737,16-02-2024,Assault,Downtown,34.05716385,-118.2462877,13,Female,Afternoon,Police
+738,01-02-2024,Kidnapping,Park Street,34.053234,-118.2491571,39,Male,Afternoon,Police
+739,08-08-2024,Kidnapping,Downtown,34.05932798,-118.2474803,12,Female,Afternoon,Citizen
+740,23-04-2024,Harassment,Downtown,34.05324343,-118.2407667,47,Male,Afternoon,Citizen
+741,01-03-2024,Harassment,Central Station,34.05330808,-118.241453,29,Female,Afternoon,Police
+742,13-01-2024,Assault,East Side,34.0545078,-118.2434622,35,Female,Afternoon,Citizen
+743,17-06-2024,Assault,West End,34.05380623,-118.2486413,21,Female,Evening,Police
+744,02-07-2024,Kidnapping,West End,34.05468309,-118.242839,21,Female,Afternoon,Police
+745,02-10-2024,Assault,Park Street,34.05719826,-118.2462238,34,Female,Morning,Citizen
+746,19-04-2024,Assault,East Side,34.05677465,-118.2412646,48,Female,Afternoon,Citizen
+747,02-06-2024,Harassment,Park Street,34.05416473,-118.2443852,44,Female,Night,Citizen
+748,19-06-2024,Assault,Park Street,34.05165151,-118.2495341,26,Female,Night,Police
+749,04-08-2024,Assault,East Side,34.05225769,-118.2449082,21,Female,Night,Citizen
+750,03-04-2024,Assault,Park Street,34.0579815,-118.2406236,25,Female,Afternoon,Police
+751,19-12-2024,Harassment,Central Station,34.05673903,-118.2428744,45,Female,Evening,Police
+752,11-04-2024,Harassment,West End,34.05785515,-118.2426571,19,Female,Afternoon,Police
+753,07-02-2024,Harassment,Park Street,34.05593945,-118.2480911,31,Female,Afternoon,Police
+754,06-11-2024,Assault,West End,34.05487282,-118.2434968,43,Female,Evening,Police
+755,27-02-2024,Harassment,Central Station,34.05162411,-118.2405943,30,Female,Evening,Police
+756,05-08-2024,Harassment,West End,34.05097283,-118.2442144,49,Female,Afternoon,Police
+757,21-03-2024,Kidnapping,East Side,34.0597363,-118.2493086,35,Female,Evening,Police
+758,19-10-2024,Assault,East Side,34.05969113,-118.2438487,44,Female,Morning,Police
+759,03-09-2024,Kidnapping,West End,34.05679733,-118.2493101,43,Female,Afternoon,Police
+760,30-04-2024,Harassment,East Side,34.0517562,-118.2466236,36,Female,Evening,Police
+761,02-04-2024,Kidnapping,East Side,34.05262822,-118.2467674,46,Female,Afternoon,Police
+762,08-06-2024,Assault,Park Street,34.05593062,-118.2415301,30,Female,Morning,Citizen
+763,17-07-2024,Harassment,Park Street,34.05333132,-118.2416417,30,Female,Morning,Citizen
+764,06-10-2024,Kidnapping,Downtown,34.05633449,-118.2456275,47,Female,Night,Police
+765,16-10-2024,Assault,Park Street,34.05584208,-118.2443561,18,Female,Afternoon,Police
+766,02-04-2024,Kidnapping,Park Street,34.05476196,-118.2446969,33,Female,Morning,Citizen
+767,09-07-2024,Kidnapping,West End,34.05210863,-118.2417952,45,Female,Morning,Police
+768,16-12-2024,Assault,Downtown,34.05849316,-118.2446567,13,Female,Afternoon,Citizen
+769,28-03-2024,Assault,Central Station,34.05434979,-118.2428267,49,Female,Morning,Citizen
+770,25-11-2024,Harassment,Central Station,34.05234959,-118.2470646,21,Female,Afternoon,Citizen
+771,03-06-2024,Assault,Downtown,34.05380226,-118.2463674,29,Male,Afternoon,Police
+772,11-06-2024,Harassment,Downtown,34.05518206,-118.2461211,35,Female,Morning,Citizen
+773,01-11-2024,Harassment,Park Street,34.05713977,-118.2466503,26,Female,Morning,Citizen
+774,29-03-2024,Kidnapping,Downtown,34.05110306,-118.2480505,33,Female,Evening,Police
+775,04-06-2024,Harassment,West End,34.0549485,-118.2496035,28,Female,Morning,Citizen
+776,13-02-2024,Harassment,East Side,34.05488091,-118.2482251,49,Female,Evening,Police
+777,11-06-2024,Kidnapping,Central Station,34.05559458,-118.2460844,29,Female,Morning,Police
+778,12-06-2024,Harassment,East Side,34.05405575,-118.2437958,38,Female,Morning,Police
+779,15-07-2024,Kidnapping,Central Station,34.05145016,-118.2478871,19,Female,Night,Citizen
+780,02-09-2024,Harassment,Central Station,34.05019594,-118.2433273,29,Male,Night,Police
+781,04-03-2024,Kidnapping,West End,34.05058798,-118.2436807,46,Female,Morning,Citizen
+782,14-02-2024,Harassment,East Side,34.0581943,-118.24217,25,Female,Morning,Police
+783,23-06-2024,Kidnapping,East Side,34.05678343,-118.2432546,17,Female,Evening,Police
+784,27-05-2024,Harassment,Downtown,34.05671666,-118.2449293,32,Female,Night,Citizen
+785,11-10-2024,Harassment,West End,34.05253821,-118.2406718,33,Female,Afternoon,Citizen
+786,22-08-2024,Assault,East Side,34.05548911,-118.2494113,24,Female,Evening,Police
+787,31-05-2024,Assault,Downtown,34.05621926,-118.2453203,20,Female,Evening,Police
+788,04-03-2024,Assault,Downtown,34.05904761,-118.248773,15,Female,Afternoon,Police
+789,28-09-2024,Kidnapping,Park Street,34.0584774,-118.248886,34,Female,Evening,Police
+790,07-03-2024,Kidnapping,East Side,34.0546255,-118.2443743,40,Male,Evening,Police
+791,06-02-2024,Harassment,West End,34.05482352,-118.2491768,12,Female,Night,Citizen
+792,07-04-2024,Kidnapping,Park Street,34.05610361,-118.2490608,32,Female,Evening,Police
+793,16-08-2024,Harassment,East Side,34.05656651,-118.2470869,24,Male,Night,Citizen
+794,12-09-2024,Assault,East Side,34.0555452,-118.2479319,11,Female,Afternoon,Citizen
+795,24-11-2024,Kidnapping,Park Street,34.05846051,-118.2406765,10,Male,Afternoon,Police
+796,24-05-2024,Assault,Park Street,34.05917388,-118.244245,43,Female,Afternoon,Police
+797,24-09-2024,Assault,Central Station,34.05707599,-118.2447056,14,Male,Night,Police
+798,08-08-2024,Harassment,Central Station,34.05779023,-118.2482568,39,Female,Morning,Citizen
+799,22-09-2024,Harassment,East Side,34.05022684,-118.2443862,21,Female,Night,Police
+800,19-06-2024,Kidnapping,East Side,34.05455641,-118.2466726,30,Female,Afternoon,Police
